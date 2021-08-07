@@ -6,34 +6,34 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 5,Gintama°,9.09,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","4,55,835",TV,51," Funimation, Crunchyroll", Bandai Namco Pictures, Manga, 24 min. ,Spring 2015,"11,740"
 6,Hunter x Hunter (2011),9.07,"Action, Adventure, Fantasy, Shounen, Super Power","19,99,750",TV,148, VIZ Media, Madhouse, Manga, 23 min. ,Fall 2011,"1,54,575"
 7,Ginga Eiyuu Densetsu,9.06,"Military, Sci-Fi, Space, Drama","2,52,288",OVA,110, Sentai Filmworks," K-Factory, Kitty Film Mitaka Studio", Novel, 26 min. ,Null,"13,243"
-8,Gintama',9.06,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","4,06,132",TV,51," None found, add some", Sunrise, Manga, 24 min. ,Spring 2011,"6,090"
-9,Gintama': Enchousen,9.04,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,46,557",TV,13," None found, add some", Sunrise, Manga, 24 min. ,Fall 2012,"2,425"
+8,Gintama',9.06,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","4,06,132",TV,51, null, Sunrise, Manga, 24 min. ,Spring 2011,"6,090"
+9,Gintama': Enchousen,9.04,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,46,557",TV,13, null, Sunrise, Manga, 24 min. ,Fall 2012,"2,425"
 10,3-gatsu no Lion 2nd Season,8.99,"Drama, Game, Seinen, Slice of Life","3,05,858",TV,22, Aniplex of America, Shaft, Manga, 25 min. ,Fall 2017,"12,282"
-11,Gintama.,8.98,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,30,086",TV,12," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Winter 2017,"2,194"
+11,Gintama.,8.98,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,30,086",TV,12, null, Bandai Namco Pictures, Manga, 24 min. ,Winter 2017,"2,194"
 12,Koe no Katachi,8.98,"Drama, School, Shounen","16,49,174",Movie,1," Eleven Arts, NYAV Post", Kyoto Animation, Manga, 2 hr. 10 min.,Null,"62,989"
 13,Shingeki no Kyojin: The Final Season,8.97,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen","11,97,276",TV,16, Funimation, MAPPA, Manga, 23 min. ,Winter 2021,"45,630"
 14,Clannad: After Story,8.95,"Slice of Life, Comedy, Supernatural, Drama, Romance","9,88,243",TV,24, Sentai Filmworks, Kyoto Animation, Visual novel, 24 min. ,Fall 2008,"61,824"
 15,Gintama,8.95,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","8,39,036",TV,201," Sentai Filmworks, Crunchyroll", Sunrise, Manga, 24 min. ,Spring 2006,"48,648"
-16,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.94,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,85,993",Movie,1," None found, add some", Sunrise, Manga, 1 hr. 50 min.,Null,"1,862"
+16,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.94,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,85,993",Movie,1, null, Sunrise, Manga, 1 hr. 50 min.,Null,"1,862"
 17,Kimi no Na wa.,8.92,"Romance, Supernatural, School, Drama","20,25,638",Movie,1," Funimation, NYAV Post", CoMix Wave Films, Original, 1 hr. 46 min.,Null,"71,893"
 18,Owarimonogatari 2nd Season,8.92,"Mystery, Comedy, Supernatural, Vampire","3,06,185",TV,7, Aniplex of America, Shaft, Light novel, 22 min. ,Summer 2017,"6,796"
 19,Code Geass: Hangyaku no Lelouch R2,8.91,"Action, Military, Sci-Fi, Super Power, Drama, Mecha","14,02,298",TV,25," Funimation, Bandai Entertainment", Sunrise, Original, 24 min. ,Spring 2008,"64,176"
 20,Shiguang Dailiren,8.89,"Super Power, Drama, Fantasy","49,829",ONA,11, Funimation, Haoliners Animation League, Original, 23 min. ,Null,"1,349"
-21,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,8.87,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,34,601",TV,14," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Summer 2018,840
+21,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,8.87,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,34,601",TV,14, null, Bandai Namco Pictures, Manga, 24 min. ,Summer 2018,840
 22,Violet Evergarden Movie,8.85,"Slice of Life, Drama, Fantasy","2,76,925",Movie,1, Funimation, Kyoto Animation, Light novel, 2 hr. 20 min.,Null,"2,098"
 23,Gintama: The Final,8.84,"Action, Sci-Fi, Comedy, Historical, Parody, Drama, Samurai, Shounen","49,042",Movie,1, Eleven Arts, Bandai Namco Pictures, Manga, 1 hr. 44 min.,Null,"1,020"
 24,Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.82,"Comedy, Sports, Drama, School, Shounen","8,70,275",TV,10, Sentai Filmworks, Production I.G, Manga, 24 min. ,Fall 2016,"12,780"
 25,Mob Psycho 100 II,8.82,"Action, Slice of Life, Comedy, Supernatural","10,09,224",TV,13, Funimation, Bones, Web manga, 24 min. ,Winter 2019,"22,801"
-26,Gintama.: Shirogane no Tamashii-hen,8.81,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,47,803",TV,12," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Winter 2018,938
+26,Gintama.: Shirogane no Tamashii-hen,8.81,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,47,803",TV,12, null, Bandai Namco Pictures, Manga, 24 min. ,Winter 2018,938
 27,Kizumonogatari III: Reiketsu-hen,8.81,"Action, Mystery, Supernatural, Vampire","3,50,977",Movie,1, Aniplex of America, Shaft, Light novel, 1 hr. 23 min.,Null,"5,555"
-28,Odd Taxi,8.8,Mystery,"1,28,979",TV,13," None found, add some"," OLM, P.I.C.S.", Original, 23 min. ,Spring 2021,"2,254"
+28,Odd Taxi,8.8,Mystery,"1,28,979",TV,13, null," OLM, P.I.C.S.", Original, 23 min. ,Spring 2021,"2,254"
 29,Sen to Chihiro no Kamikakushi,8.8,"Adventure, Supernatural, Drama","14,11,645",Movie,1," Walt Disney Studios, GKIDS", Studio Ghibli, Original, 2 hr. 4 min.,Null,"24,631"
 30,Monster,8.79,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller","7,12,901",TV,74, VIZ Media, Madhouse, Manga, 24 min. ,Spring 2004,"30,135"
 31,Monogatari Series: Second Season,8.78,"Mystery, Comedy, Supernatural, Romance, Vampire","5,53,595",TV,26, Aniplex of America, Shaft, Light novel, 24 min. ,Summer 2013,"20,555"
 32,Fate/stay night Movie: Heaven's Feel - III. Spring Song,8.78,"Action, Supernatural, Magic, Fantasy","1,99,001",Movie,1, Aniplex of America, ufotable, Visual novel, 2 hr. 2 min.,Null,"4,617"
 33,Cowboy Bebop,8.77,"Action, Adventure, Comedy, Drama, Sci-Fi, Space","13,99,263",TV,26," Funimation, Bandai Entertainment", Sunrise, Original, 24 min. ,Spring 1998,"61,420"
-34,Jujutsu Kaisen (TV),8.77,"Action, Demons, Supernatural, School, Shounen","12,96,373",TV,24," None found, add some", MAPPA, Manga, 23 min. ,Fall 2020,"47,539"
-35,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,8.77,"Drama, Historical, Josei","1,53,432",TV,12," None found, add some", Studio Deen, Manga, 24 min. ,Winter 2017,"2,677"
+34,Jujutsu Kaisen (TV),8.77,"Action, Demons, Supernatural, School, Shounen","12,96,373",TV,24, null, MAPPA, Manga, 23 min. ,Fall 2020,"47,539"
+35,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,8.77,"Drama, Historical, Josei","1,53,432",TV,12, null, Studio Deen, Manga, 24 min. ,Winter 2017,"2,677"
 36,Mushishi Zoku Shou 2nd Season,8.75,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","2,15,515",TV,10, Aniplex of America, Artland, Manga, 23 min. ,Fall 2014,"1,162"
 37,Kimetsu no Yaiba Movie: Mugen Ressha-hen,8.75,"Action, Historical, Demons, Supernatural, Shounen","7,05,031",Movie,1, Aniplex of America, ufotable, Manga, 1 hr. 56 min.,Null,"7,776"
 38,Hajime no Ippo,8.74,"Comedy, Sports, Drama, Shounen","4,23,504",TV,75," Discotek Media, Geneon Entertainment USA", Madhouse, Manga, 23 min. ,Fall 2000,"15,470"
@@ -47,7 +47,7 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 46,Mononoke Hime,8.7,"Action, Adventure, Fantasy","9,69,372",Movie,1, GKIDS, Studio Ghibli, Original, 2 hr. 13 min.,Null,"16,453"
 47,Shigatsu wa Kimi no Uso,8.7,"Music, Drama, Romance, School, Shounen","16,76,269",TV,22, Aniplex of America, A-1 Pictures, Manga, 22 min. ,Fall 2014,"71,037"
 48,Mushishi,8.68,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen","6,72,106",TV,26, Funimation, Artland, Manga, 25 min. ,Fall 2005,"22,775"
-49,Ashita no Joe 2,8.68,"Action, Drama, Shounen, Slice of Life, Sports","34,649",TV,47," None found, add some", Tokyo Movie Shinsha, Manga, 24 min. ,Fall 1980,"1,648"
+49,Ashita no Joe 2,8.68,"Action, Drama, Shounen, Slice of Life, Sports","34,649",TV,47, null, Tokyo Movie Shinsha, Manga, 24 min. ,Fall 1980,"1,648"
 50,Haikyuu!! Second Season,8.68,"Comedy, Sports, Drama, School, Shounen","10,46,544",TV,25, Sentai Filmworks, Production I.G, Manga, 24 min. ,Fall 2015,"13,567"
 1,Fullmetal Alchemist: Brotherhood,9.17,"Action, Military, Adventure, Comedy, Drama, Magic, Fantasy, Shounen","25,34,840",TV,64," Funimation, Aniplex of America", Bones, Manga, 24 min. ,Spring 2009,"1,80,194"
 2,Shingeki no Kyojin Season 3 Part 2,9.11,"Action, Drama, Fantasy, Military, Mystery, Shounen, Super Power","14,40,398",TV,10, Funimation, Wit Studio, Manga, 23 min. ,Spring 2019,"41,251"
@@ -56,34 +56,34 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 5,Gintama°,9.09,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","4,55,835",TV,51," Funimation, Crunchyroll", Bandai Namco Pictures, Manga, 24 min. ,Spring 2015,"11,740"
 6,Hunter x Hunter (2011),9.07,"Action, Adventure, Fantasy, Shounen, Super Power","19,99,750",TV,148, VIZ Media, Madhouse, Manga, 23 min. ,Fall 2011,"1,54,576"
 7,Ginga Eiyuu Densetsu,9.06,"Military, Sci-Fi, Space, Drama","2,52,288",OVA,110, Sentai Filmworks," K-Factory, Kitty Film Mitaka Studio", Novel, 26 min. ,Null,"13,243"
-8,Gintama',9.06,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","4,06,132",TV,51," None found, add some", Sunrise, Manga, 24 min. ,Spring 2011,"6,090"
-9,Gintama': Enchousen,9.04,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,46,557",TV,13," None found, add some", Sunrise, Manga, 24 min. ,Fall 2012,"2,425"
+8,Gintama',9.06,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","4,06,132",TV,51, null, Sunrise, Manga, 24 min. ,Spring 2011,"6,090"
+9,Gintama': Enchousen,9.04,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,46,557",TV,13, null, Sunrise, Manga, 24 min. ,Fall 2012,"2,425"
 10,3-gatsu no Lion 2nd Season,8.99,"Drama, Game, Seinen, Slice of Life","3,05,858",TV,22, Aniplex of America, Shaft, Manga, 25 min. ,Fall 2017,"12,282"
-11,Gintama.,8.98,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,30,086",TV,12," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Winter 2017,"2,194"
+11,Gintama.,8.98,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","2,30,086",TV,12, null, Bandai Namco Pictures, Manga, 24 min. ,Winter 2017,"2,194"
 12,Koe no Katachi,8.98,"Drama, School, Shounen","16,49,174",Movie,1," Eleven Arts, NYAV Post", Kyoto Animation, Manga, 2 hr. 10 min.,Null,"62,989"
 13,Shingeki no Kyojin: The Final Season,8.97,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen","11,97,276",TV,16, Funimation, MAPPA, Manga, 23 min. ,Winter 2021,"45,630"
 14,Clannad: After Story,8.95,"Slice of Life, Comedy, Supernatural, Drama, Romance","9,88,243",TV,24, Sentai Filmworks, Kyoto Animation, Visual novel, 24 min. ,Fall 2008,"61,824"
 15,Gintama,8.95,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","8,39,036",TV,201," Sentai Filmworks, Crunchyroll", Sunrise, Manga, 24 min. ,Spring 2006,"48,648"
-16,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.94,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,85,993",Movie,1," None found, add some", Sunrise, Manga, 1 hr. 50 min.,Null,"1,862"
+16,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.94,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,85,993",Movie,1, null, Sunrise, Manga, 1 hr. 50 min.,Null,"1,862"
 17,Kimi no Na wa.,8.92,"Romance, Supernatural, School, Drama","20,25,638",Movie,1," Funimation, NYAV Post", CoMix Wave Films, Original, 1 hr. 46 min.,Null,"71,893"
 18,Owarimonogatari 2nd Season,8.92,"Mystery, Comedy, Supernatural, Vampire","3,06,185",TV,7, Aniplex of America, Shaft, Light novel, 22 min. ,Summer 2017,"6,796"
 19,Code Geass: Hangyaku no Lelouch R2,8.91,"Action, Military, Sci-Fi, Super Power, Drama, Mecha","14,02,298",TV,25," Funimation, Bandai Entertainment", Sunrise, Original, 24 min. ,Spring 2008,"64,176"
 20,Shiguang Dailiren,8.89,"Super Power, Drama, Fantasy","49,829",ONA,11, Funimation, Haoliners Animation League, Original, 23 min. ,Null,"1,349"
-21,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,8.87,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,34,601",TV,14," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Summer 2018,840
+21,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,8.87,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,34,601",TV,14, null, Bandai Namco Pictures, Manga, 24 min. ,Summer 2018,840
 22,Violet Evergarden Movie,8.85,"Slice of Life, Drama, Fantasy","2,76,925",Movie,1, Funimation, Kyoto Animation, Light novel, 2 hr. 20 min.,Null,"2,098"
 23,Gintama: The Final,8.84,"Action, Sci-Fi, Comedy, Historical, Parody, Drama, Samurai, Shounen","49,042",Movie,1, Eleven Arts, Bandai Namco Pictures, Manga, 1 hr. 44 min.,Null,"1,020"
 24,Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.82,"Comedy, Sports, Drama, School, Shounen","8,70,275",TV,10, Sentai Filmworks, Production I.G, Manga, 24 min. ,Fall 2016,"12,780"
 25,Mob Psycho 100 II,8.82,"Action, Slice of Life, Comedy, Supernatural","10,09,224",TV,13, Funimation, Bones, Web manga, 24 min. ,Winter 2019,"22,801"
-26,Gintama.: Shirogane no Tamashii-hen,8.81,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,47,803",TV,12," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Winter 2018,938
+26,Gintama.: Shirogane no Tamashii-hen,8.81,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,47,803",TV,12, null, Bandai Namco Pictures, Manga, 24 min. ,Winter 2018,938
 27,Kizumonogatari III: Reiketsu-hen,8.81,"Action, Mystery, Supernatural, Vampire","3,50,977",Movie,1, Aniplex of America, Shaft, Light novel, 1 hr. 23 min.,Null,"5,555"
-28,Odd Taxi,8.8,Mystery,"1,28,979",TV,13," None found, add some"," OLM, P.I.C.S.", Original, 23 min. ,Spring 2021,"2,254"
+28,Odd Taxi,8.8,Mystery,"1,28,979",TV,13, null," OLM, P.I.C.S.", Original, 23 min. ,Spring 2021,"2,254"
 29,Sen to Chihiro no Kamikakushi,8.8,"Adventure, Supernatural, Drama","14,11,645",Movie,1," Walt Disney Studios, GKIDS", Studio Ghibli, Original, 2 hr. 4 min.,Null,"24,631"
 30,Monster,8.79,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller","7,12,901",TV,74, VIZ Media, Madhouse, Manga, 24 min. ,Spring 2004,"30,135"
 31,Monogatari Series: Second Season,8.78,"Mystery, Comedy, Supernatural, Romance, Vampire","5,53,595",TV,26, Aniplex of America, Shaft, Light novel, 24 min. ,Summer 2013,"20,555"
 32,Fate/stay night Movie: Heaven's Feel - III. Spring Song,8.78,"Action, Supernatural, Magic, Fantasy","1,99,001",Movie,1, Aniplex of America, ufotable, Visual novel, 2 hr. 2 min.,Null,"4,617"
 33,Cowboy Bebop,8.77,"Action, Adventure, Comedy, Drama, Sci-Fi, Space","13,99,263",TV,26," Funimation, Bandai Entertainment", Sunrise, Original, 24 min. ,Spring 1998,"61,420"
-34,Jujutsu Kaisen (TV),8.77,"Action, Demons, Supernatural, School, Shounen","12,96,373",TV,24," None found, add some", MAPPA, Manga, 23 min. ,Fall 2020,"47,539"
-35,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,8.77,"Drama, Historical, Josei","1,53,432",TV,12," None found, add some", Studio Deen, Manga, 24 min. ,Winter 2017,"2,677"
+34,Jujutsu Kaisen (TV),8.77,"Action, Demons, Supernatural, School, Shounen","12,96,373",TV,24, null, MAPPA, Manga, 23 min. ,Fall 2020,"47,539"
+35,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,8.77,"Drama, Historical, Josei","1,53,432",TV,12, null, Studio Deen, Manga, 24 min. ,Winter 2017,"2,677"
 36,Mushishi Zoku Shou 2nd Season,8.75,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","2,15,515",TV,10, Aniplex of America, Artland, Manga, 23 min. ,Fall 2014,"1,162"
 37,Kimetsu no Yaiba Movie: Mugen Ressha-hen,8.75,"Action, Historical, Demons, Supernatural, Shounen","7,05,031",Movie,1, Aniplex of America, ufotable, Manga, 1 hr. 56 min.,Null,"7,776"
 38,Hajime no Ippo,8.74,"Comedy, Sports, Drama, Shounen","4,23,504",TV,75," Discotek Media, Geneon Entertainment USA", Madhouse, Manga, 23 min. ,Fall 2000,"15,470"
@@ -97,123 +97,123 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 46,Mononoke Hime,8.7,"Action, Adventure, Fantasy","9,69,372",Movie,1, GKIDS, Studio Ghibli, Original, 2 hr. 13 min.,Null,"16,453"
 47,Shigatsu wa Kimi no Uso,8.7,"Music, Drama, Romance, School, Shounen","16,76,269",TV,22, Aniplex of America, A-1 Pictures, Manga, 22 min. ,Fall 2014,"71,037"
 48,Mushishi,8.68,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen","6,72,106",TV,26, Funimation, Artland, Manga, 25 min. ,Fall 2005,"22,775"
-49,Ashita no Joe 2,8.68,"Action, Drama, Shounen, Slice of Life, Sports","34,649",TV,47," None found, add some", Tokyo Movie Shinsha, Manga, 24 min. ,Fall 1980,"1,648"
+49,Ashita no Joe 2,8.68,"Action, Drama, Shounen, Slice of Life, Sports","34,649",TV,47, null, Tokyo Movie Shinsha, Manga, 24 min. ,Fall 1980,"1,648"
 50,Haikyuu!! Second Season,8.68,"Comedy, Sports, Drama, School, Shounen","10,46,544",TV,25, Sentai Filmworks, Production I.G, Manga, 24 min. ,Fall 2015,"13,567"
 51,Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen,8.68,"Comedy, Psychological, Romance, School, Seinen","8,45,675",TV,12, Aniplex of America, A-1 Pictures, Manga, 24 min. ,Spring 2020,"15,898"
-52,Hajime no Ippo: New Challenger,8.66,"Comedy, Sports, Drama, Shounen","2,17,971",TV,26," None found, add some", Madhouse, Manga, 23 min. ,Winter 2009,"1,442"
+52,Hajime no Ippo: New Challenger,8.66,"Comedy, Sports, Drama, Shounen","2,17,971",TV,26, null, Madhouse, Manga, 23 min. ,Winter 2009,"1,442"
 53,Howl no Ugoku Shiro,8.66,"Adventure, Drama, Fantasy, Romance","9,67,467",Movie,1, Walt Disney Studios, Studio Ghibli, Novel, 1 hr. 59 min.,Null,"18,817"
 54,Natsume Yuujinchou Shi,8.66,"Slice of Life, Demons, Supernatural, Drama, Shoujo","2,05,839",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Winter 2012,"1,763"
 55,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,8.66,"Drama, Romance, School, Supernatural","4,65,020",Movie,1, Aniplex of America, CloverWorks, Light novel, 1 hr. 30 min.,Null,"7,373"
 56,Tengen Toppa Gurren Lagann,8.65,"Action, Sci-Fi, Adventure, Comedy, Mecha","13,17,341",TV,27," ADV Films, Bandai Entertainment, Aniplex of America", Gainax, Original, 24 min. ,Spring 2007,"66,713"
 57,Violet Evergarden,8.65,"Slice of Life, Drama, Fantasy","12,53,548",TV,13, Funimation, Kyoto Animation, Light novel, 24 min. ,Winter 2018,"39,983"
-58,Natsume Yuujinchou Roku,8.64,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,790",TV,11," None found, add some", Shuka, Manga, 23 min. ,Spring 2017,884
+58,Natsume Yuujinchou Roku,8.64,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,790",TV,11, null, Shuka, Manga, 23 min. ,Spring 2017,884
 59,Suzumiya Haruhi no Shoushitsu,8.64,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural","5,18,464",Movie,1," Funimation, Bandai Entertainment", Kyoto Animation, Light novel, 2 hr. 42 min.,Null,"11,593"
 60,Shingeki no Kyojin Season 3,8.63,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen","15,73,035",TV,12, Funimation, Wit Studio, Manga, 23 min. ,Summer 2018,"15,159"
 61,Death Note,8.63,"Mystery, Police, Psychological, Supernatural, Thriller, Shounen","29,68,435",TV,37, VIZ Media, Madhouse, Manga, 23 min. ,Fall 2006,"1,35,323"
 62,Josee to Tora to Sakana-tachi,8.63,"Slice of Life, Drama, Romance","1,49,391",Movie,1, Funimation, Bones, Novel, 1 hr. 38 min.,Null,"2,213"
-63,Mushishi Zoku Shou: Suzu no Shizuku,8.62,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","1,04,249",Movie,1," None found, add some", Artland, Manga, 47 min.,Null,179
+63,Mushishi Zoku Shou: Suzu no Shizuku,8.62,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","1,04,249",Movie,1, null, Artland, Manga, 47 min.,Null,179
 64,Ookami Kodomo no Ame to Yuki,8.62,"Fantasy, Slice of Life","6,67,970",Movie,1, Funimation, Studio Chizu, Original, 1 hr. 57 min.,Null,"9,784"
 65,Ping Pong the Animation,8.62,"Drama, Psychological, Seinen, Sports","2,99,455",TV,11, Funimation, Tatsunoko Production, Manga, 23 min. ,Spring 2014,"12,149"
 66,Kizumonogatari II: Nekketsu-hen,8.61,"Action, Mystery, Supernatural, Vampire","3,44,110",Movie,1, Aniplex of America, Shaft, Light novel, 1 hr. 4 min.,Null,"1,897"
-67,Fumetsu no Anata e,8.6,"Adventure, Drama, Shounen, Supernatural","4,62,138",TV,20," None found, add some", Brain's Base, Manga, 25 min. ,Spring 2021,"6,273"
+67,Fumetsu no Anata e,8.6,"Adventure, Drama, Shounen, Supernatural","4,62,138",TV,20, null, Brain's Base, Manga, 25 min. ,Spring 2021,"6,273"
 68,Yakusoku no Neverland,8.6,"Sci-Fi, Mystery, Horror, Psychological, Thriller, Shounen","14,05,840",TV,12, Aniplex of America, CloverWorks, Manga, 22 min. ,Winter 2019,"29,355"
 69,Yojouhan Shinwa Taikei,8.6,"Mystery, Comedy, Psychological, Romance","3,44,657",TV,11, Funimation, Madhouse, Novel, 23 min. ,Spring 2010,"14,695"
 70,Natsume Yuujinchou San,8.59,"Slice of Life, Demons, Supernatural, Drama, Shoujo","2,13,247",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Summer 2011,"1,222"
-71,Shouwa Genroku Rakugo Shinjuu,8.59,"Drama, Historical, Josei","2,41,820",TV,13," None found, add some", Studio Deen, Manga, 26 min. ,Winter 2016,"5,091"
-72,Hajime no Ippo: Rising,8.59,"Comedy, Sports, Drama, Shounen","1,91,888",TV,25," None found, add some"," Madhouse, MAPPA", Manga, 22 min. ,Fall 2013,939
+71,Shouwa Genroku Rakugo Shinjuu,8.59,"Drama, Historical, Josei","2,41,820",TV,13, null, Studio Deen, Manga, 26 min. ,Winter 2016,"5,091"
+72,Hajime no Ippo: Rising,8.59,"Comedy, Sports, Drama, Shounen","1,91,888",TV,25, null," Madhouse, MAPPA", Manga, 22 min. ,Fall 2013,939
 73,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8.59,"Action, Adventure, Shounen","6,61,282",TV,39, VIZ Media, David Production, Manga, 23 min. ,Fall 2018,"21,518"
 74,Kimetsu no Yaiba,8.59,"Action, Demons, Historical, Shounen, Supernatural","18,83,554",TV,26, Aniplex of America, ufotable, Manga, 23 min. ,Spring 2019,"60,305"
 75,Kimi no Suizou wo Tabetai,8.59,"Slice of Life, Drama, Romance","5,88,158",Movie,1, Aniplex of America, Studio VOLN, Novel, 1 hr. 48 min.,Null,"13,036"
 76,Fate/Zero 2nd Season,8.58,"Action, Supernatural, Magic, Fantasy","8,93,636",TV,12, Aniplex of America, ufotable, Light novel, 24 min. ,Spring 2012,"17,543"
 77,Fruits Basket 2nd Season,8.58,"Slice of Life, Comedy, Supernatural, Drama, Romance, Shoujo","2,93,050",TV,25, Funimation, TMS Entertainment, Manga, 23 min. ,Spring 2020,"3,906"
-78,Natsume Yuujinchou Go,8.58,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,337",TV,11," None found, add some", Shuka, Manga, 23 min. ,Fall 2016,657
-79,One Piece,8.57,"Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen","15,64,808",TV,9999," Funimation, 4Kids Entertainment", Toei Animation, Manga, 24 min.,Fall 1999,"1,25,934"
+78,Natsume Yuujinchou Go,8.58,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,337",TV,11, null, Shuka, Manga, 23 min. ,Fall 2016,657
+79,One Piece,8.57,"Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen","15,64,808",TV,null," Funimation, 4Kids Entertainment", Toei Animation, Manga, 24 min.,Fall 1999,"1,25,934"
 80,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,8.57,"Action, Sci-Fi, Space, Super Power, Mecha","1,79,388",Movie,1, Aniplex of America, Gainax, Original, 2 hr. 5 min.,Null,791
 81,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,8.57,"Action, Fantasy, Magic, Supernatural","2,56,073",Movie,1, Aniplex of America, ufotable, Visual novel, 1 hr. 57 min.,Null,"2,722"
-82,Bakuman. 3rd Season,8.56,"Comedy, Drama, Romance, Shounen","2,84,535",TV,25," None found, add some", J.C.Staff, Manga, 24 min. ,Fall 2012,"2,712"
-83,Mushishi: Hihamukage,8.56,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen","1,13,688",Special,1," None found, add some", Artland, Manga, 45 min.,Null,153
-84,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,8.56,"Drama, Fantasy, Psychological, Thriller","5,42,710",TV,12," None found, add some", White Fox, Light novel, 28 min. ,Winter 2021,"9,119"
+82,Bakuman. 3rd Season,8.56,"Comedy, Drama, Romance, Shounen","2,84,535",TV,25, null, J.C.Staff, Manga, 24 min. ,Fall 2012,"2,712"
+83,Mushishi: Hihamukage,8.56,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen","1,13,688",Special,1, null, Artland, Manga, 45 min.,Null,153
+84,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,8.56,"Drama, Fantasy, Psychological, Thriller","5,42,710",TV,12, null, White Fox, Light novel, 28 min. ,Winter 2021,"9,119"
 85,Zoku Natsume Yuujinchou,8.56,"Slice of Life, Demons, Supernatural, Drama, Shoujo","2,11,732",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Winter 2009,"1,309"
-86,Sora yori mo Tooi Basho,8.55,"Adventure, Comedy, Drama","3,83,907",TV,13," None found, add some", Madhouse, Original, 23 min. ,Winter 2018,"11,079"
-87,Yuru Camp△ Season 2,8.55,"Slice of Life, Comedy","1,44,146",TV,13," None found, add some", C-Station, Manga, 23 min. ,Winter 2021,"1,852"
-88,Haikyuu!!: To the Top 2nd Season,8.55,"Comedy, Sports, Drama, School, Shounen","4,94,778",TV,12," None found, add some", Production I.G, Manga, 23 min. ,Fall 2020,"4,207"
+86,Sora yori mo Tooi Basho,8.55,"Adventure, Comedy, Drama","3,83,907",TV,13, null, Madhouse, Original, 23 min. ,Winter 2018,"11,079"
+87,Yuru Camp△ Season 2,8.55,"Slice of Life, Comedy","1,44,146",TV,13, null, C-Station, Manga, 23 min. ,Winter 2021,"1,852"
+88,Haikyuu!!: To the Top 2nd Season,8.55,"Comedy, Sports, Drama, School, Shounen","4,94,778",TV,12, null, Production I.G, Manga, 23 min. ,Fall 2020,"4,207"
 89,Kara no Kyoukai 5: Mujun Rasen,8.55,"Action, Mystery, Supernatural, Drama, Romance, Thriller","2,00,592",Movie,1, Aniplex of America, ufotable, Light novel, 1 hr. 54 min.,Null,"3,942"
-90,Tensei shitara Slime Datta Ken 2nd Season Part 2,8.54,"Action, Adventure, Comedy, Demons, Magic, Fantasy","2,66,090",TV,12," None found, add some", 8bit, Light novel,9999,Summer 2021,"3,805"
+90,Tensei shitara Slime Datta Ken 2nd Season Part 2,8.54,"Action, Adventure, Comedy, Demons, Magic, Fantasy","2,66,090",TV,12, null, 8bit, Light novel,null,Summer 2021,"3,805"
 91,Vivy: Fluorite Eye's Song,8.54,"Action, Music, Sci-Fi, Thriller","2,72,614",TV,13, Aniplex of America, Wit Studio, Original, 24 min. ,Spring 2021,"5,047"
 92,Neon Genesis Evangelion: The End of Evangelion,8.53,"Sci-Fi, Dementia, Psychological, Drama, Mecha","6,59,171",Movie,1," GKIDS, Manga Entertainment"," Gainax, Production I.G", Original, 1 hr. 27 min.,Null,"19,163"
 93,One Punch Man,8.53,"Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural","24,28,091",TV,12, VIZ Media, Madhouse, Web manga, 24 min. ,Fall 2015,"51,431"
 94,Slam Dunk,8.53,"Comedy, Drama, School, Shounen, Sports","2,23,521",TV,101," Flatiron Film Company, Geneon Entertainment USA", Toei Animation, Manga, 23 min. ,Fall 1993,"5,300"
-95,Gintama.: Porori-hen,8.53,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,45,916",TV,13," None found, add some", Bandai Namco Pictures, Manga, 23 min. ,Fall 2017,735
+95,Gintama.: Porori-hen,8.53,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,45,916",TV,13, null, Bandai Namco Pictures, Manga, 23 min. ,Fall 2017,735
 96,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,8.53,"Action, Military, Sci-Fi, Mystery, Police, Mecha, Seinen","1,99,250",TV,26," Bandai Entertainment, Manga Entertainment", Production I.G, Manga, 25 min. ,Winter 2004,"2,745"
 97,Ansatsu Kyoushitsu 2nd Season,8.52,"Action, Comedy, School, Shounen","10,50,873",TV,25, Funimation, Lerche, Manga, 23 min. ,Winter 2016,"14,682"
 98,Gintama Movie 1: Shinyaku Benizakura-hen,8.52,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,27,525",Movie,1, Sentai Filmworks, Sunrise, Manga, 1 hr. 35 min.,Null,463
 99,Aria the Origination,8.51,"Sci-Fi, Slice of Life, Fantasy, Shounen","1,04,293",TV,13, Nozomi Entertainment, Hal Film Maker, Manga, 24 min. ,Winter 2008,"3,603"
-100,Gintama: The Semi-Final,8.51,"Action, Comedy, Historical, Parody, Samurai, Shounen","33,576",Special,2," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Null,160
+100,Gintama: The Semi-Final,8.51,"Action, Comedy, Historical, Parody, Samurai, Shounen","33,576",Special,2, null, Bandai Namco Pictures, Manga, 24 min. ,Null,160
 51,Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen,8.68,"Comedy, Psychological, Romance, School, Seinen","8,45,675",TV,12, Aniplex of America, A-1 Pictures, Manga, 24 min. ,Spring 2020,"15,898"
-52,Hajime no Ippo: New Challenger,8.66,"Comedy, Sports, Drama, Shounen","2,17,971",TV,26," None found, add some", Madhouse, Manga, 23 min. ,Winter 2009,"1,442"
+52,Hajime no Ippo: New Challenger,8.66,"Comedy, Sports, Drama, Shounen","2,17,971",TV,26, null, Madhouse, Manga, 23 min. ,Winter 2009,"1,442"
 53,Howl no Ugoku Shiro,8.66,"Adventure, Drama, Fantasy, Romance","9,67,467",Movie,1, Walt Disney Studios, Studio Ghibli, Novel, 1 hr. 59 min.,Null,"18,817"
 54,Natsume Yuujinchou Shi,8.66,"Slice of Life, Demons, Supernatural, Drama, Shoujo","2,05,839",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Winter 2012,"1,763"
 55,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,8.66,"Drama, Romance, School, Supernatural","4,65,020",Movie,1, Aniplex of America, CloverWorks, Light novel, 1 hr. 30 min.,Null,"7,373"
 56,Tengen Toppa Gurren Lagann,8.65,"Action, Sci-Fi, Adventure, Comedy, Mecha","13,17,341",TV,27," ADV Films, Bandai Entertainment, Aniplex of America", Gainax, Original, 24 min. ,Spring 2007,"66,713"
 57,Violet Evergarden,8.65,"Slice of Life, Drama, Fantasy","12,53,548",TV,13, Funimation, Kyoto Animation, Light novel, 24 min. ,Winter 2018,"39,983"
-58,Natsume Yuujinchou Roku,8.64,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,790",TV,11," None found, add some", Shuka, Manga, 23 min. ,Spring 2017,884
+58,Natsume Yuujinchou Roku,8.64,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,790",TV,11, null, Shuka, Manga, 23 min. ,Spring 2017,884
 59,Suzumiya Haruhi no Shoushitsu,8.64,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural","5,18,464",Movie,1," Funimation, Bandai Entertainment", Kyoto Animation, Light novel, 2 hr. 42 min.,Null,"11,593"
 60,Shingeki no Kyojin Season 3,8.63,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen","15,73,035",TV,12, Funimation, Wit Studio, Manga, 23 min. ,Summer 2018,"15,161"
 61,Death Note,8.63,"Mystery, Police, Psychological, Supernatural, Thriller, Shounen","29,68,435",TV,37, VIZ Media, Madhouse, Manga, 23 min. ,Fall 2006,"1,35,324"
 62,Josee to Tora to Sakana-tachi,8.63,"Slice of Life, Drama, Romance","1,49,391",Movie,1, Funimation, Bones, Novel, 1 hr. 38 min.,Null,"2,213"
-63,Mushishi Zoku Shou: Suzu no Shizuku,8.62,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","1,04,249",Movie,1," None found, add some", Artland, Manga, 47 min.,Null,179
+63,Mushishi Zoku Shou: Suzu no Shizuku,8.62,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","1,04,249",Movie,1, null, Artland, Manga, 47 min.,Null,179
 64,Ookami Kodomo no Ame to Yuki,8.62,"Fantasy, Slice of Life","6,67,970",Movie,1, Funimation, Studio Chizu, Original, 1 hr. 57 min.,Null,"9,784"
 65,Ping Pong the Animation,8.62,"Drama, Psychological, Seinen, Sports","2,99,455",TV,11, Funimation, Tatsunoko Production, Manga, 23 min. ,Spring 2014,"12,149"
 66,Kizumonogatari II: Nekketsu-hen,8.61,"Action, Mystery, Supernatural, Vampire","3,44,110",Movie,1, Aniplex of America, Shaft, Light novel, 1 hr. 4 min.,Null,"1,897"
-67,Fumetsu no Anata e,8.6,"Adventure, Drama, Shounen, Supernatural","4,62,138",TV,20," None found, add some", Brain's Base, Manga, 25 min. ,Spring 2021,"6,273"
+67,Fumetsu no Anata e,8.6,"Adventure, Drama, Shounen, Supernatural","4,62,138",TV,20, null, Brain's Base, Manga, 25 min. ,Spring 2021,"6,273"
 68,Yakusoku no Neverland,8.6,"Sci-Fi, Mystery, Horror, Psychological, Thriller, Shounen","14,05,840",TV,12, Aniplex of America, CloverWorks, Manga, 22 min. ,Winter 2019,"29,355"
 69,Yojouhan Shinwa Taikei,8.6,"Mystery, Comedy, Psychological, Romance","3,44,657",TV,11, Funimation, Madhouse, Novel, 23 min. ,Spring 2010,"14,695"
 70,Natsume Yuujinchou San,8.59,"Slice of Life, Demons, Supernatural, Drama, Shoujo","2,13,247",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Summer 2011,"1,222"
-71,Shouwa Genroku Rakugo Shinjuu,8.59,"Drama, Historical, Josei","2,41,820",TV,13," None found, add some", Studio Deen, Manga, 26 min. ,Winter 2016,"5,091"
-72,Hajime no Ippo: Rising,8.59,"Comedy, Sports, Drama, Shounen","1,91,888",TV,25," None found, add some"," Madhouse, MAPPA", Manga, 22 min. ,Fall 2013,939
+71,Shouwa Genroku Rakugo Shinjuu,8.59,"Drama, Historical, Josei","2,41,820",TV,13, null, Studio Deen, Manga, 26 min. ,Winter 2016,"5,091"
+72,Hajime no Ippo: Rising,8.59,"Comedy, Sports, Drama, Shounen","1,91,888",TV,25, null," Madhouse, MAPPA", Manga, 22 min. ,Fall 2013,939
 73,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8.59,"Action, Adventure, Shounen","6,61,282",TV,39, VIZ Media, David Production, Manga, 23 min. ,Fall 2018,"21,518"
 74,Kimetsu no Yaiba,8.59,"Action, Demons, Historical, Shounen, Supernatural","18,83,554",TV,26, Aniplex of America, ufotable, Manga, 23 min. ,Spring 2019,"60,305"
 75,Kimi no Suizou wo Tabetai,8.59,"Slice of Life, Drama, Romance","5,88,158",Movie,1, Aniplex of America, Studio VOLN, Novel, 1 hr. 48 min.,Null,"13,036"
 76,Fate/Zero 2nd Season,8.58,"Action, Supernatural, Magic, Fantasy","8,93,636",TV,12, Aniplex of America, ufotable, Light novel, 24 min. ,Spring 2012,"17,543"
 77,Fruits Basket 2nd Season,8.58,"Slice of Life, Comedy, Supernatural, Drama, Romance, Shoujo","2,93,050",TV,25, Funimation, TMS Entertainment, Manga, 23 min. ,Spring 2020,"3,906"
-78,Natsume Yuujinchou Go,8.58,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,337",TV,11," None found, add some", Shuka, Manga, 23 min. ,Fall 2016,657
-79,One Piece,8.57,"Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen","15,64,784",TV,9999," Funimation, 4Kids Entertainment", Toei Animation, Manga, 24 min.,Fall 1999,"1,25,934"
+78,Natsume Yuujinchou Go,8.58,"Slice of Life, Demons, Supernatural, Drama, Shoujo","1,47,337",TV,11, null, Shuka, Manga, 23 min. ,Fall 2016,657
+79,One Piece,8.57,"Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen","15,64,784",TV,null," Funimation, 4Kids Entertainment", Toei Animation, Manga, 24 min.,Fall 1999,"1,25,934"
 80,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,8.57,"Action, Sci-Fi, Space, Super Power, Mecha","1,79,388",Movie,1, Aniplex of America, Gainax, Original, 2 hr. 5 min.,Null,791
 81,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,8.57,"Action, Fantasy, Magic, Supernatural","2,56,073",Movie,1, Aniplex of America, ufotable, Visual novel, 1 hr. 57 min.,Null,"2,722"
-82,Bakuman. 3rd Season,8.56,"Comedy, Drama, Romance, Shounen","2,84,548",TV,25," None found, add some", J.C.Staff, Manga, 24 min. ,Fall 2012,"2,712"
-83,Mushishi: Hihamukage,8.56,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen","1,13,688",Special,1," None found, add some", Artland, Manga, 45 min.,Null,153
-84,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,8.56,"Drama, Fantasy, Psychological, Thriller","5,42,833",TV,12," None found, add some", White Fox, Light novel, 28 min. ,Winter 2021,"9,119"
+82,Bakuman. 3rd Season,8.56,"Comedy, Drama, Romance, Shounen","2,84,548",TV,25, null, J.C.Staff, Manga, 24 min. ,Fall 2012,"2,712"
+83,Mushishi: Hihamukage,8.56,"Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen","1,13,688",Special,1, null, Artland, Manga, 45 min.,Null,153
+84,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,8.56,"Drama, Fantasy, Psychological, Thriller","5,42,833",TV,12, null, White Fox, Light novel, 28 min. ,Winter 2021,"9,119"
 85,Zoku Natsume Yuujinchou,8.56,"Slice of Life, Demons, Supernatural, Drama, Shoujo","2,11,732",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Winter 2009,"1,309"
-86,Sora yori mo Tooi Basho,8.55,"Adventure, Comedy, Drama","3,83,907",TV,13," None found, add some", Madhouse, Original, 23 min. ,Winter 2018,"11,080"
-87,Yuru Camp△ Season 2,8.55,"Slice of Life, Comedy","1,44,146",TV,13," None found, add some", C-Station, Manga, 23 min. ,Winter 2021,"1,852"
-88,Haikyuu!!: To the Top 2nd Season,8.55,"Comedy, Sports, Drama, School, Shounen","4,94,778",TV,12," None found, add some", Production I.G, Manga, 23 min. ,Fall 2020,"4,207"
+86,Sora yori mo Tooi Basho,8.55,"Adventure, Comedy, Drama","3,83,907",TV,13, null, Madhouse, Original, 23 min. ,Winter 2018,"11,080"
+87,Yuru Camp△ Season 2,8.55,"Slice of Life, Comedy","1,44,146",TV,13, null, C-Station, Manga, 23 min. ,Winter 2021,"1,852"
+88,Haikyuu!!: To the Top 2nd Season,8.55,"Comedy, Sports, Drama, School, Shounen","4,94,778",TV,12, null, Production I.G, Manga, 23 min. ,Fall 2020,"4,207"
 89,Kara no Kyoukai 5: Mujun Rasen,8.55,"Action, Mystery, Supernatural, Drama, Romance, Thriller","2,00,592",Movie,1, Aniplex of America, ufotable, Light novel, 1 hr. 54 min.,Null,"3,942"
-90,Tensei shitara Slime Datta Ken 2nd Season Part 2,8.54,"Action, Adventure, Comedy, Demons, Magic, Fantasy","2,66,090",TV,12," None found, add some", 8bit, Light novel,9999,Summer 2021,"3,805"
+90,Tensei shitara Slime Datta Ken 2nd Season Part 2,8.54,"Action, Adventure, Comedy, Demons, Magic, Fantasy","2,66,090",TV,12, null, 8bit, Light novel,null,Summer 2021,"3,805"
 91,Vivy: Fluorite Eye's Song,8.54,"Action, Music, Sci-Fi, Thriller","2,72,614",TV,13, Aniplex of America, Wit Studio, Original, 24 min. ,Spring 2021,"5,047"
 92,Neon Genesis Evangelion: The End of Evangelion,8.53,"Sci-Fi, Dementia, Psychological, Drama, Mecha","6,59,171",Movie,1," GKIDS, Manga Entertainment"," Gainax, Production I.G", Original, 1 hr. 27 min.,Null,"19,163"
 93,One Punch Man,8.53,"Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural","24,28,091",TV,12, VIZ Media, Madhouse, Web manga, 24 min. ,Fall 2015,"51,431"
 94,Slam Dunk,8.53,"Comedy, Drama, School, Shounen, Sports","2,23,521",TV,101," Flatiron Film Company, Geneon Entertainment USA", Toei Animation, Manga, 23 min. ,Fall 1993,"5,300"
-95,Gintama.: Porori-hen,8.53,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,45,916",TV,13," None found, add some", Bandai Namco Pictures, Manga, 23 min. ,Fall 2017,735
+95,Gintama.: Porori-hen,8.53,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","1,45,916",TV,13, null, Bandai Namco Pictures, Manga, 23 min. ,Fall 2017,735
 96,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,8.53,"Action, Military, Sci-Fi, Mystery, Police, Mecha, Seinen","1,99,250",TV,26," Bandai Entertainment, Manga Entertainment", Production I.G, Manga, 25 min. ,Winter 2004,"2,745"
 97,Ansatsu Kyoushitsu 2nd Season,8.52,"Action, Comedy, School, Shounen","10,50,873",TV,25, Funimation, Lerche, Manga, 23 min. ,Winter 2016,"14,682"
 98,Gintama Movie 1: Shinyaku Benizakura-hen,8.52,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","1,27,525",Movie,1, Sentai Filmworks, Sunrise, Manga, 1 hr. 35 min.,Null,463
 99,Aria the Origination,8.51,"Sci-Fi, Slice of Life, Fantasy, Shounen","1,04,293",TV,13, Nozomi Entertainment, Hal Film Maker, Manga, 24 min. ,Winter 2008,"3,603"
-100,Gintama: The Semi-Final,8.51,"Action, Comedy, Historical, Parody, Samurai, Shounen","33,576",Special,2," None found, add some", Bandai Namco Pictures, Manga, 24 min. ,Null,160
+100,Gintama: The Semi-Final,8.51,"Action, Comedy, Historical, Parody, Samurai, Shounen","33,576",Special,2, null, Bandai Namco Pictures, Manga, 24 min. ,Null,160
 101,Hotaru no Haka,8.51,"Drama, Historical","4,97,612",Movie,1," ADV Films, Central Park Media, Sentai Filmworks", Studio Ghibli, Novel, 1 hr. 28 min.,Null,"5,507"
 102,Rainbow: Nisha Rokubou no Shichinin,8.51,"Drama, Historical, Seinen, Thriller","3,28,166",TV,26, Funimation, Madhouse, Manga, 22 min. ,Spring 2010,"7,343"
 103,Shingeki no Kyojin,8.51,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen","29,46,580",TV,25, Funimation," Production I.G, Wit Studio", Manga, 24 min. ,Spring 2013,"1,29,853"
 104,Steins;Gate 0,8.51,"Sci-Fi, Psychological, Drama, Thriller","6,63,517",TV,23, Funimation, White Fox, Visual novel, 23 min. ,Spring 2018,"9,153"
-105,Tian Guan Ci Fu Special,8.51,"Historical, Supernatural, Drama","17,739",ONA,1," None found, add some", Haoliners Animation League, Novel, 22 min.,Null,188
+105,Tian Guan Ci Fu Special,8.51,"Historical, Supernatural, Drama","17,739",ONA,1, null, Haoliners Animation League, Novel, 22 min.,Null,188
 106,Uchuu Kyoudai,8.51,"Comedy, Sci-Fi, Seinen, Slice of Life, Space","1,61,038",TV,99, Sentai Filmworks, A-1 Pictures, Manga, 24 min. ,Spring 2012,"3,381"
 107,Perfect Blue,8.5,"Dementia, Drama, Horror, Psychological","4,64,148",Movie,1," GKIDS, Manga Entertainment", Madhouse, Novel, 1 hr. 21 min.,Null,"11,236"
 108,Samurai Champloo,8.5,"Action, Adventure, Comedy, Historical, Samurai, Shounen","9,86,067",TV,26," Funimation, Geneon Entertainment USA", Manglobe, Original, 24 min. ,Spring 2004,"29,159"
-109,Banana Fish,8.5,"Action, Adventure, Drama, Shoujo","5,55,973",TV,24," None found, add some", MAPPA, Manga, 22 min. ,Summer 2018,"20,100"
-110,Holo no Graffiti,8.5,Comedy,"33,359",ONA,9999," None found, add some", Hololive Production, Other, 1 min.,Null,"1,358"
+109,Banana Fish,8.5,"Action, Adventure, Drama, Shoujo","5,55,973",TV,24, null, MAPPA, Manga, 22 min. ,Summer 2018,"20,100"
+110,Holo no Graffiti,8.5,Comedy,"33,359",ONA,null, null, Hololive Production, Other, 1 min.,Null,"1,358"
 111,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8.5,"Action, Adventure, Comedy, Supernatural, Drama, Shounen","7,52,479",TV,39, VIZ Media, David Production, Manga, 23 min. ,Spring 2016,"26,687"
 112,Kenpuu Denki Berserk,8.5,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural","4,71,697",TV,25," Media Blasters, NYAV Post", OLM, Manga, 25 min. ,Fall 1997,"18,779"
-113,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,8.5,"Adventure, Comedy, Parody, Supernatural, Fantasy","5,18,814",Movie,1," None found, add some", J.C.Staff, Light novel, 1 hr. 30 min.,Null,"3,579"
+113,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,8.5,"Adventure, Comedy, Parody, Supernatural, Fantasy","5,18,814",Movie,1, null, J.C.Staff, Light novel, 1 hr. 30 min.,Null,"3,579"
 114,Chihayafuru 3,8.49,"Game, Slice of Life, Sports, Drama, School, Josei","1,02,267",TV,24, Sentai Filmworks, Madhouse, Manga, 22 min. ,Fall 2019,"1,062"
-115,Mo Dao Zu Shi,8.49,"Action, Adventure, Mystery, Historical, Supernatural","1,53,778",ONA,15," None found, add some", B.CMAY PICTURES, Novel, 24 min. ,Null,"4,455"
+115,Mo Dao Zu Shi,8.49,"Action, Adventure, Mystery, Historical, Supernatural","1,53,778",ONA,15, null, B.CMAY PICTURES, Novel, 24 min. ,Null,"4,455"
 116,Haikyuu!!,8.48,"Comedy, Sports, Drama, School, Shounen","14,26,742",TV,25, Sentai Filmworks, Production I.G, Manga, 24 min. ,Spring 2014,"57,115"
 117,Mob Psycho 100,8.48,"Action, Slice of Life, Comedy, Supernatural","14,61,632",TV,12," Funimation, Crunchyroll", Bones, Web manga, 24 min. ,Summer 2016,"30,583"
 118,Nana,8.48,"Music, Slice of Life, Comedy, Drama, Romance, Shoujo","4,64,128",TV,47," VIZ Media, Sentai Filmworks", Madhouse, Manga, 23 min. ,Spring 2006,"18,112"
@@ -221,49 +221,49 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 120,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,8.48,"Sci-Fi, Drama","4,84,038",Movie,1, Funimation, White Fox, Visual novel, 1 hr. 30 min.,Null,"2,143"
 121,Zoku Owarimonogatari,8.48,"Mystery, Comedy, Supernatural, Vampire","1,70,029",Movie,6, Aniplex of America, Shaft, Light novel, 28 min. ,Null,727
 122,Nichijou,8.47,"Slice of Life, Comedy, School, Shounen","7,06,974",TV,26," Funimation, Bandai Entertainment", Kyoto Animation, Manga, 23 min. ,Spring 2011,"18,680"
-123,Saenai Heroine no Sodatekata Fine,8.47,"Harem, Comedy, Romance, Ecchi, School","1,17,028",Movie,1," None found, add some", CloverWorks, Light novel, 1 hr. 54 min.,Null,"1,548"
+123,Saenai Heroine no Sodatekata Fine,8.47,"Harem, Comedy, Romance, Ecchi, School","1,17,028",Movie,1, null, CloverWorks, Light novel, 1 hr. 54 min.,Null,"1,548"
 124,Mushishi Zoku Shou: Odoro no Michi,8.46,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","82,878",Special,1, Aniplex of America, Artland, Manga, 47 min.,Null,111
 125,Owarimonogatari,8.46,"Mystery, Comedy, Supernatural, Vampire","3,91,143",TV,12, Aniplex of America, Shaft, Light novel, 26 min. ,Fall 2015,"2,378"
-126,Kobayashi-san Chi no Maid Dragon S,8.46,"Slice of Life, Comedy, Fantasy","2,32,996",TV,9999," None found, add some", Kyoto Animation, Manga, 23 min.,Summer 2021,"1,839"
+126,Kobayashi-san Chi no Maid Dragon S,8.46,"Slice of Life, Comedy, Fantasy","2,32,996",TV,null, null, Kyoto Animation, Manga, 23 min.,Summer 2021,"1,839"
 127,Golden Kamuy 3rd Season,8.45,"Action, Adventure, Historical, Seinen","99,483",TV,12, Funimation, Geno Studio, Manga, 23 min. ,Fall 2020,821
 128,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,8.45,"Mystery, Psychological, Drama, Magic, Thriller","3,07,979",Movie,1, Aniplex of America, Shaft, Original, 1 hr. 56 min.,Null,"6,873"
-129,Saiki Kusuo no Ψ-nan 2,8.45,"Slice of Life, Comedy, Supernatural, School, Shounen","4,33,534",TV,24," None found, add some"," J.C.Staff, Egg Firm", Manga, 24 min. ,Winter 2018,"3,109"
+129,Saiki Kusuo no Ψ-nan 2,8.45,"Slice of Life, Comedy, Supernatural, School, Shounen","4,33,534",TV,24, null," J.C.Staff, Egg Firm", Manga, 24 min. ,Winter 2018,"3,109"
 130,Yuu☆Yuu☆Hakusho,8.45,"Action, Comedy, Demons, Supernatural, Martial Arts, Shounen","5,31,479",TV,112, Funimation, Studio Pierrot, Manga, 24 min. ,Fall 1992,"17,221"
 131,Mononoke,8.44,"Mystery, Historical, Horror, Demons, Psychological, Supernatural, Fantasy, Seinen","2,44,685",TV,12, Flatiron Film Company, Toei Animation, Original, 22 min. ,Summer 2007,"5,993"
 132,Sayonara no Asa ni Yakusoku no Hana wo Kazarou,8.44,"Drama, Fantasy","2,92,422",Movie,1, Eleven Arts, P.A. Works, Original, 1 hr. 55 min.,Null,"5,028"
-133,Gintama: Yorinuki Gintama-san on Theater 2D,8.44,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","34,844",Movie,2," None found, add some", Sunrise, Manga, 1 hr. 36 min. ,Null,43
+133,Gintama: Yorinuki Gintama-san on Theater 2D,8.44,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","34,844",Movie,2, null, Sunrise, Manga, 1 hr. 36 min. ,Null,43
 134,Koukaku Kidoutai: Stand Alone Complex,8.44,"Action, Military, Sci-Fi, Police, Mecha, Seinen","3,41,998",TV,26," Bandai Entertainment, Manga Entertainment", Production I.G, Manga, 25 min. ,Fall 2002,"7,686"
-135,Mo Dao Zu Shi: Xian Yun Pian,8.44,"Action, Mystery, Historical, Supernatural","64,874",ONA,8," None found, add some", B.CMAY PICTURES, Novel, 24 min. ,Null,787
-136,Gotcha!,8.43,"Music, Fantasy","19,641",Music,1," None found, add some", Bones, Game, 3 min.,Null,184
+135,Mo Dao Zu Shi: Xian Yun Pian,8.44,"Action, Mystery, Historical, Supernatural","64,874",ONA,8, null, B.CMAY PICTURES, Novel, 24 min. ,Null,787
+136,Gotcha!,8.43,"Music, Fantasy","19,641",Music,1, null, Bones, Game, 3 min.,Null,184
 137,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8.43,"Action, Adventure, Supernatural, Drama, Shounen","7,56,653",TV,24, VIZ Media, David Production, Manga, 23 min. ,Winter 2015,"14,427"
 138,Kara no Kyoukai 7: Satsujin Kousatsu (Go),8.43,"Action, Mystery, Supernatural, Romance, Thriller","1,75,029",Movie,1, Aniplex of America, ufotable, Light novel, 2 hr. 1 min.,Null,"1,972"
-139,Major S5,8.43,"Comedy, Drama, Romance, Shounen, Sports","60,647",TV,25," None found, add some", SynergySP, Manga, 24 min. ,Winter 2009,566
-140,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,8.43,"Psychological, Drama, Thriller, Fantasy","7,75,109",TV,13," None found, add some", White Fox, Light novel, 27 min. ,Summer 2020,"9,597"
+139,Major S5,8.43,"Comedy, Drama, Romance, Shounen, Sports","60,647",TV,25, null, SynergySP, Manga, 24 min. ,Winter 2009,566
+140,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,8.43,"Psychological, Drama, Thriller, Fantasy","7,75,109",TV,13, null, White Fox, Light novel, 27 min. ,Summer 2020,"9,597"
 141,Saiki Kusuo no Ψ-nan,8.43,"Comedy, School, Shounen, Slice of Life, Supernatural","7,37,096",TV,120, Funimation," J.C.Staff, Egg Firm", Manga, 5 min. ,Summer 2016,"18,255"
 142,Natsume Yuujinchou Movie: Utsusemi ni Musubu,8.42,"Demons, Drama, Shoujo, Slice of Life, Supernatural","51,266",Movie,1, Aniplex of America, Shuka, Manga, 1 hr. 44 min.,Null,151
 143,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,8.42,"Slice of Life, Comedy, Drama, Romance, School","4,88,055",TV,12, Sentai Filmworks, feel., Light novel, 24 min. ,Summer 2020,"10,121"
-144,Grand Blue,8.42,"Slice of Life, Comedy, Seinen","5,17,604",TV,12," None found, add some", Zero-G, Manga, 24 min. ,Summer 2018,"12,304"
+144,Grand Blue,8.42,"Slice of Life, Comedy, Seinen","5,17,604",TV,12, null, Zero-G, Manga, 24 min. ,Summer 2018,"12,304"
 145,Kaze ga Tsuyoku Fuiteiru,8.42,"Comedy, Sports, Drama","2,24,747",TV,23, Sentai Filmworks, Production I.G, Novel, 23 min. ,Fall 2018,"4,519"
 146,Kono Oto Tomare! 2nd Season,8.42,"Drama, Music, Romance, School, Shounen","1,03,779",TV,13, Funimation, Platinum Vision, Manga, 23 min. ,Fall 2019,"1,082"
 147,3-gatsu no Lion,8.41,"Drama, Game, Seinen, Slice of Life","5,27,772",TV,22, Aniplex of America, Shaft, Manga, 25 min. ,Fall 2016,"12,303"
 148,Chihayafuru 2,8.41,"Drama, Game, Josei, School, Slice of Life, Sports","1,96,863",TV,25, Sentai Filmworks, Madhouse, Manga, 22 min. ,Winter 2013,"1,478"
-149,Cross Game,8.41,"Comedy, Drama, Romance, School, Shounen, Sports","1,06,475",TV,50," None found, add some", SynergySP, Manga, 23 min. ,Spring 2009,"2,758"
-150,Douluo Dalu: Xiaowu Juebie,8.41,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","6,139",ONA,13," None found, add some", Sparkly Key Animation Studio, Novel, 20 min. ,Null,87
+149,Cross Game,8.41,"Comedy, Drama, Romance, School, Shounen, Sports","1,06,475",TV,50, null, SynergySP, Manga, 23 min. ,Spring 2009,"2,758"
+150,Douluo Dalu: Xiaowu Juebie,8.41,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","6,139",ONA,13, null, Sparkly Key Animation Studio, Novel, 20 min. ,Null,87
 101,Hotaru no Haka,8.51,"Drama, Historical","4,97,612",Movie,1," ADV Films, Central Park Media, Sentai Filmworks", Studio Ghibli, Novel, 1 hr. 28 min.,Null,"5,507"
 102,Rainbow: Nisha Rokubou no Shichinin,8.51,"Drama, Historical, Seinen, Thriller","3,28,166",TV,26, Funimation, Madhouse, Manga, 22 min. ,Spring 2010,"7,343"
 103,Shingeki no Kyojin,8.51,"Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen","29,46,580",TV,25, Funimation," Production I.G, Wit Studio", Manga, 24 min. ,Spring 2013,"1,29,855"
 104,Steins;Gate 0,8.51,"Sci-Fi, Psychological, Drama, Thriller","6,63,517",TV,23, Funimation, White Fox, Visual novel, 23 min. ,Spring 2018,"9,153"
-105,Tian Guan Ci Fu Special,8.51,"Historical, Supernatural, Drama","17,739",ONA,1," None found, add some", Haoliners Animation League, Novel, 22 min.,Null,188
+105,Tian Guan Ci Fu Special,8.51,"Historical, Supernatural, Drama","17,739",ONA,1, null, Haoliners Animation League, Novel, 22 min.,Null,188
 106,Uchuu Kyoudai,8.51,"Comedy, Sci-Fi, Seinen, Slice of Life, Space","1,61,038",TV,99, Sentai Filmworks, A-1 Pictures, Manga, 24 min. ,Spring 2012,"3,381"
 107,Perfect Blue,8.5,"Dementia, Drama, Horror, Psychological","4,64,148",Movie,1," GKIDS, Manga Entertainment", Madhouse, Novel, 1 hr. 21 min.,Null,"11,236"
 108,Samurai Champloo,8.5,"Action, Adventure, Comedy, Historical, Samurai, Shounen","9,86,174",TV,26," Funimation, Geneon Entertainment USA", Manglobe, Original, 24 min. ,Spring 2004,"29,159"
-109,Banana Fish,8.5,"Action, Adventure, Drama, Shoujo","5,55,973",TV,24," None found, add some", MAPPA, Manga, 22 min. ,Summer 2018,"20,100"
-110,Holo no Graffiti,8.5,Comedy,"33,359",ONA,9999," None found, add some", Hololive Production, Other, 1 min.,Null,"1,358"
+109,Banana Fish,8.5,"Action, Adventure, Drama, Shoujo","5,55,973",TV,24, null, MAPPA, Manga, 22 min. ,Summer 2018,"20,100"
+110,Holo no Graffiti,8.5,Comedy,"33,359",ONA,null, null, Hololive Production, Other, 1 min.,Null,"1,358"
 111,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8.5,"Action, Adventure, Comedy, Supernatural, Drama, Shounen","7,52,479",TV,39, VIZ Media, David Production, Manga, 23 min. ,Spring 2016,"26,687"
 112,Kenpuu Denki Berserk,8.5,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural","4,71,697",TV,25," Media Blasters, NYAV Post", OLM, Manga, 25 min. ,Fall 1997,"18,779"
-113,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,8.5,"Adventure, Comedy, Parody, Supernatural, Fantasy","5,18,814",Movie,1," None found, add some", J.C.Staff, Light novel, 1 hr. 30 min.,Null,"3,579"
+113,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,8.5,"Adventure, Comedy, Parody, Supernatural, Fantasy","5,18,814",Movie,1, null, J.C.Staff, Light novel, 1 hr. 30 min.,Null,"3,579"
 114,Chihayafuru 3,8.49,"Game, Slice of Life, Sports, Drama, School, Josei","1,02,267",TV,24, Sentai Filmworks, Madhouse, Manga, 22 min. ,Fall 2019,"1,062"
-115,Mo Dao Zu Shi,8.49,"Action, Adventure, Mystery, Historical, Supernatural","1,53,778",ONA,15," None found, add some", B.CMAY PICTURES, Novel, 24 min. ,Null,"4,455"
+115,Mo Dao Zu Shi,8.49,"Action, Adventure, Mystery, Historical, Supernatural","1,53,778",ONA,15, null, B.CMAY PICTURES, Novel, 24 min. ,Null,"4,455"
 116,Haikyuu!!,8.48,"Comedy, Sports, Drama, School, Shounen","14,26,742",TV,25, Sentai Filmworks, Production I.G, Manga, 24 min. ,Spring 2014,"57,115"
 117,Mob Psycho 100,8.48,"Action, Slice of Life, Comedy, Supernatural","14,61,632",TV,12," Funimation, Crunchyroll", Bones, Web manga, 24 min. ,Summer 2016,"30,583"
 118,Nana,8.48,"Music, Slice of Life, Comedy, Drama, Romance, Shoujo","4,64,128",TV,47," VIZ Media, Sentai Filmworks", Madhouse, Manga, 23 min. ,Spring 2006,"18,112"
@@ -271,41 +271,41 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 120,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,8.48,"Sci-Fi, Drama","4,84,038",Movie,1, Funimation, White Fox, Visual novel, 1 hr. 30 min.,Null,"2,143"
 121,Zoku Owarimonogatari,8.48,"Mystery, Comedy, Supernatural, Vampire","1,70,029",Movie,6, Aniplex of America, Shaft, Light novel, 28 min. ,Null,727
 122,Nichijou,8.47,"Slice of Life, Comedy, School, Shounen","7,06,974",TV,26," Funimation, Bandai Entertainment", Kyoto Animation, Manga, 23 min. ,Spring 2011,"18,680"
-123,Saenai Heroine no Sodatekata Fine,8.47,"Harem, Comedy, Romance, Ecchi, School","1,17,056",Movie,1," None found, add some", CloverWorks, Light novel, 1 hr. 54 min.,Null,"1,548"
+123,Saenai Heroine no Sodatekata Fine,8.47,"Harem, Comedy, Romance, Ecchi, School","1,17,056",Movie,1, null, CloverWorks, Light novel, 1 hr. 54 min.,Null,"1,548"
 124,Mushishi Zoku Shou: Odoro no Michi,8.46,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural","82,878",Special,1, Aniplex of America, Artland, Manga, 47 min.,Null,111
 125,Owarimonogatari,8.46,"Mystery, Comedy, Supernatural, Vampire","3,91,143",TV,12, Aniplex of America, Shaft, Light novel, 26 min. ,Fall 2015,"2,378"
-126,Kobayashi-san Chi no Maid Dragon S,8.46,"Slice of Life, Comedy, Fantasy","2,32,996",TV,9999," None found, add some", Kyoto Animation, Manga, 23 min.,Summer 2021,"1,839"
+126,Kobayashi-san Chi no Maid Dragon S,8.46,"Slice of Life, Comedy, Fantasy","2,32,996",TV,null, null, Kyoto Animation, Manga, 23 min.,Summer 2021,"1,839"
 127,Golden Kamuy 3rd Season,8.45,"Action, Adventure, Historical, Seinen","99,483",TV,12, Funimation, Geno Studio, Manga, 23 min. ,Fall 2020,821
 128,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,8.45,"Mystery, Psychological, Drama, Magic, Thriller","3,07,979",Movie,1, Aniplex of America, Shaft, Original, 1 hr. 56 min.,Null,"6,873"
-129,Saiki Kusuo no Ψ-nan 2,8.45,"Slice of Life, Comedy, Supernatural, School, Shounen","4,33,534",TV,24," None found, add some"," J.C.Staff, Egg Firm", Manga, 24 min. ,Winter 2018,"3,109"
+129,Saiki Kusuo no Ψ-nan 2,8.45,"Slice of Life, Comedy, Supernatural, School, Shounen","4,33,534",TV,24, null," J.C.Staff, Egg Firm", Manga, 24 min. ,Winter 2018,"3,109"
 130,Yuu☆Yuu☆Hakusho,8.45,"Action, Comedy, Demons, Supernatural, Martial Arts, Shounen","5,31,479",TV,112, Funimation, Studio Pierrot, Manga, 24 min. ,Fall 1992,"17,221"
 131,Mononoke,8.44,"Mystery, Historical, Horror, Demons, Psychological, Supernatural, Fantasy, Seinen","2,44,685",TV,12, Flatiron Film Company, Toei Animation, Original, 22 min. ,Summer 2007,"5,993"
 132,Sayonara no Asa ni Yakusoku no Hana wo Kazarou,8.44,"Drama, Fantasy","2,92,473",Movie,1, Eleven Arts, P.A. Works, Original, 1 hr. 55 min.,Null,"5,028"
-133,Gintama: Yorinuki Gintama-san on Theater 2D,8.44,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","34,844",Movie,2," None found, add some", Sunrise, Manga, 1 hr. 36 min. ,Null,43
+133,Gintama: Yorinuki Gintama-san on Theater 2D,8.44,"Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen","34,844",Movie,2, null, Sunrise, Manga, 1 hr. 36 min. ,Null,43
 134,Koukaku Kidoutai: Stand Alone Complex,8.44,"Action, Military, Sci-Fi, Police, Mecha, Seinen","3,41,998",TV,26," Bandai Entertainment, Manga Entertainment", Production I.G, Manga, 25 min. ,Fall 2002,"7,686"
-135,Mo Dao Zu Shi: Xian Yun Pian,8.44,"Action, Mystery, Historical, Supernatural","64,874",ONA,8," None found, add some", B.CMAY PICTURES, Novel, 24 min. ,Null,787
-136,Gotcha!,8.43,"Music, Fantasy","19,641",Music,1," None found, add some", Bones, Game, 3 min.,Null,184
+135,Mo Dao Zu Shi: Xian Yun Pian,8.44,"Action, Mystery, Historical, Supernatural","64,874",ONA,8, null, B.CMAY PICTURES, Novel, 24 min. ,Null,787
+136,Gotcha!,8.43,"Music, Fantasy","19,641",Music,1, null, Bones, Game, 3 min.,Null,184
 137,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8.43,"Action, Adventure, Supernatural, Drama, Shounen","7,56,768",TV,24, VIZ Media, David Production, Manga, 23 min. ,Winter 2015,"14,428"
 138,Kara no Kyoukai 7: Satsujin Kousatsu (Go),8.43,"Action, Mystery, Supernatural, Romance, Thriller","1,75,029",Movie,1, Aniplex of America, ufotable, Light novel, 2 hr. 1 min.,Null,"1,972"
-139,Major S5,8.43,"Comedy, Drama, Romance, Shounen, Sports","60,647",TV,25," None found, add some", SynergySP, Manga, 24 min. ,Winter 2009,566
-140,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,8.43,"Psychological, Drama, Thriller, Fantasy","7,75,109",TV,13," None found, add some", White Fox, Light novel, 27 min. ,Summer 2020,"9,597"
+139,Major S5,8.43,"Comedy, Drama, Romance, Shounen, Sports","60,647",TV,25, null, SynergySP, Manga, 24 min. ,Winter 2009,566
+140,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,8.43,"Psychological, Drama, Thriller, Fantasy","7,75,109",TV,13, null, White Fox, Light novel, 27 min. ,Summer 2020,"9,597"
 141,Saiki Kusuo no Ψ-nan,8.43,"Comedy, School, Shounen, Slice of Life, Supernatural","7,37,096",TV,120, Funimation," J.C.Staff, Egg Firm", Manga, 5 min. ,Summer 2016,"18,255"
 142,Natsume Yuujinchou Movie: Utsusemi ni Musubu,8.42,"Demons, Drama, Shoujo, Slice of Life, Supernatural","51,266",Movie,1, Aniplex of America, Shuka, Manga, 1 hr. 44 min.,Null,151
 143,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,8.42,"Slice of Life, Comedy, Drama, Romance, School","4,88,055",TV,12, Sentai Filmworks, feel., Light novel, 24 min. ,Summer 2020,"10,121"
-144,Grand Blue,8.42,"Slice of Life, Comedy, Seinen","5,17,604",TV,12," None found, add some", Zero-G, Manga, 24 min. ,Summer 2018,"12,304"
+144,Grand Blue,8.42,"Slice of Life, Comedy, Seinen","5,17,604",TV,12, null, Zero-G, Manga, 24 min. ,Summer 2018,"12,304"
 145,Kaze ga Tsuyoku Fuiteiru,8.42,"Comedy, Sports, Drama","2,24,747",TV,23, Sentai Filmworks, Production I.G, Novel, 23 min. ,Fall 2018,"4,519"
 146,Kono Oto Tomare! 2nd Season,8.42,"Drama, Music, Romance, School, Shounen","1,03,779",TV,13, Funimation, Platinum Vision, Manga, 23 min. ,Fall 2019,"1,082"
 147,3-gatsu no Lion,8.41,"Drama, Game, Seinen, Slice of Life","5,27,772",TV,22, Aniplex of America, Shaft, Manga, 25 min. ,Fall 2016,"12,303"
 148,Chihayafuru 2,8.41,"Drama, Game, Josei, School, Slice of Life, Sports","1,96,863",TV,25, Sentai Filmworks, Madhouse, Manga, 22 min. ,Winter 2013,"1,478"
-149,Cross Game,8.41,"Comedy, Drama, Romance, School, Shounen, Sports","1,06,475",TV,50," None found, add some", SynergySP, Manga, 23 min. ,Spring 2009,"2,758"
-150,Douluo Dalu: Xiaowu Juebie,8.41,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","6,139",ONA,13," None found, add some", Sparkly Key Animation Studio, Novel, 20 min. ,Null,87
-151,Gintama°: Aizome Kaori-hen,8.41,"Comedy, Parody","65,374",OVA,2," None found, add some", Bandai Namco Pictures, Manga, 26 min. ,Null,117
+149,Cross Game,8.41,"Comedy, Drama, Romance, School, Shounen, Sports","1,06,475",TV,50, null, SynergySP, Manga, 23 min. ,Spring 2009,"2,758"
+150,Douluo Dalu: Xiaowu Juebie,8.41,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","6,139",ONA,13, null, Sparkly Key Animation Studio, Novel, 20 min. ,Null,87
+151,Gintama°: Aizome Kaori-hen,8.41,"Comedy, Parody","65,374",OVA,2, null, Bandai Namco Pictures, Manga, 26 min. ,Null,117
 152,Houseki no Kuni (TV),8.41,"Action, Drama, Fantasy, Mystery, Seinen","3,39,565",TV,12, Sentai Filmworks, Orange, Manga, 24 min. ,Fall 2017,"9,408"
 153,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8.41,"Comedy, Psychological, Romance, School, Seinen","11,44,927",TV,12, Aniplex of America, A-1 Pictures, Manga, 25 min. ,Winter 2019,"25,443"
 154,Non Non Biyori Nonstop,8.41,"Slice of Life, Comedy, Seinen","78,697",TV,12, Sentai Filmworks, SILVER LINK., Manga, 24 min. ,Winter 2021,581
-155,Shingeki no Kyojin: Kuinaki Sentaku,8.41,"Action, Fantasy, Shoujo","3,80,486",OVA,2," None found, add some", Wit Studio, Visual novel, 27 min. ,Null,"1,516"
+155,Shingeki no Kyojin: Kuinaki Sentaku,8.41,"Action, Fantasy, Shoujo","3,80,486",OVA,2, null, Wit Studio, Visual novel, 27 min. ,Null,"1,516"
 156,Usagi Drop,8.41,"Slice of Life, Josei","4,17,743",TV,11," NIS America, Inc.", Production I.G, Manga, 22 min. ,Summer 2011,"5,597"
-157,Natsume Yuujinchou Roku Specials,8.4,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,485",Special,2," None found, add some", Shuka, Manga, 23 min. ,Null,59
+157,Natsume Yuujinchou Roku Specials,8.4,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,485",Special,2, null, Shuka, Manga, 23 min. ,Null,59
 158,Tensei shitara Slime Datta Ken 2nd Season,8.4,"Action, Adventure, Comedy, Demons, Magic, Fantasy","5,32,587",TV,12, Funimation, 8bit, Light novel, 23 min. ,Winter 2021,"7,275"
 159,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,8.4,"Slice of Life, Drama, Fantasy","2,46,999",Movie,1, Funimation, Kyoto Animation, Light novel, 1 hr. 31 min.,Null,814
 160,Baccano!,8.4,"Action, Comedy, Historical, Mystery, Supernatural","7,65,278",TV,13," Funimation, Aniplex of America", Brain's Base, Light novel, 24 min. ,Summer 2007,"21,216"
@@ -320,42 +320,42 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 169,Hellsing Ultimate,8.38,"Action, Military, Horror, Supernatural, Vampire, Seinen","7,35,640",OVA,10," Funimation, Geneon Entertainment USA"," Madhouse, Satelight, Graphinica", Manga, 50 min. ,Null,"17,271"
 170,Kaze no Tani no Nausicaä,8.38,"Adventure, Fantasy","2,98,545",Movie,1," Walt Disney Studios, GKIDS", Topcraft, Manga, 1 hr. 57 min.,Null,"3,918"
 171,Kingdom 3rd Season,8.38,"Action, Military, Historical, Seinen","48,760",TV,26, Funimation," Pierrot Plus, Studio Signpost", Manga, 25 min. ,Spring 2020,560
-172,Kamisama Hajimemashita: Kako-hen,8.37,"Comedy, Demons, Supernatural, Romance, Fantasy, Shoujo","1,28,828",OVA,4," None found, add some", TMS Entertainment, Manga, 30 min. ,Null,769
+172,Kamisama Hajimemashita: Kako-hen,8.37,"Comedy, Demons, Supernatural, Romance, Fantasy, Shoujo","1,28,828",OVA,4, null, TMS Entertainment, Manga, 30 min. ,Null,769
 173,Kingdom 2nd Season,8.37,"Action, Military, Historical, Seinen","86,796",TV,39, Funimation, Studio Pierrot, Manga, 25 min. ,Summer 2013,679
 174,Kiseijuu: Sei no Kakuritsu,8.37,"Action, Sci-Fi, Horror, Psychological, Drama, Seinen","14,20,367",TV,24, Sentai Filmworks, Madhouse, Manga, 23 min. ,Fall 2014,"27,055"
-175,Tian Guan Ci Fu,8.37,"Action, Adventure, Historical, Supernatural, Drama","60,056",ONA,11," None found, add some", Haoliners Animation League, Novel, 25 min. ,Null,"1,948"
+175,Tian Guan Ci Fu,8.37,"Action, Adventure, Historical, Supernatural, Drama","60,056",ONA,11, null, Haoliners Animation League, Novel, 25 min. ,Null,"1,948"
 176,Psycho-Pass,8.36,"Action, Sci-Fi, Police, Psychological, Thriller","13,27,878",TV,22, Funimation, Production I.G, Original, 23 min. ,Fall 2012,"33,150"
 177,Tenki no Ko,8.36,"Slice of Life, Drama, Romance, Fantasy","6,22,282",Movie,1, GKIDS, CoMix Wave Films, Original, 1 hr. 52 min.,Null,"8,378"
 178,Uchuu Senkan Yamato 2199,8.36,"Action, Military, Sci-Fi, Space, Drama","97,310",OVA,26, Funimation," Xebec, AIC", Original, 25 min. ,Null,"1,521"
-179,Haikyuu!!: To the Top,8.36,"Comedy, Sports, Drama, School, Shounen","6,12,449",TV,13," None found, add some", Production I.G, Manga, 24 min. ,Winter 2020,"3,809"
+179,Haikyuu!!: To the Top,8.36,"Comedy, Sports, Drama, School, Shounen","6,12,449",TV,13, null, Production I.G, Manga, 24 min. ,Winter 2020,"3,809"
 180,Mahou Shoujo Madoka★Magica,8.36,"Psychological, Drama, Magic, Thriller","10,47,245",TV,12, Aniplex of America, Shaft, Original, 24 min. ,Winter 2011,"44,624"
-181,Major S6,8.36,"Comedy, Drama, Shounen, Sports","53,456",TV,25," None found, add some", SynergySP, Manga, 24 min. ,Spring 2010,422
+181,Major S6,8.36,"Comedy, Drama, Shounen, Sports","53,456",TV,25, null, SynergySP, Manga, 24 min. ,Spring 2010,422
 182,Bakemonogatari,8.35,"Romance, Supernatural, Mystery, Vampire","11,64,986",TV,15, Aniplex of America, Shaft, Light novel, 24 min. ,Summer 2009,"42,346"
-183,Given,8.35,"Drama, Music, Romance, Shounen Ai, Slice of Life","3,60,714",TV,11," None found, add some", Lerche, Manga, 22 min. ,Summer 2019,"11,512"
-184,Hotarubi no Mori e,8.35,"Drama, Romance, Shoujo, Supernatural","6,40,917",Movie,1," None found, add some", Brain's Base, Manga, 45 min.,Null,"8,496"
+183,Given,8.35,"Drama, Music, Romance, Shounen Ai, Slice of Life","3,60,714",TV,11, null, Lerche, Manga, 22 min. ,Summer 2019,"11,512"
+184,Hotarubi no Mori e,8.35,"Drama, Romance, Shoujo, Supernatural","6,40,917",Movie,1, null, Brain's Base, Manga, 45 min.,Null,"8,496"
 185,Katanagatari,8.35,"Action, Adventure, Historical, Martial Arts, Romance","4,75,995",TV,12," NIS America, Inc.", White Fox, Light novel, 50 min. ,Winter 2010,"9,758"
-186,Natsume Yuujinchou: Itsuka Yuki no Hi ni,8.35,"Slice of Life, Demons, Supernatural, Drama, Shoujo","66,911",OVA,1," None found, add some", Brain's Base, Manga, 23 min.,Null,92
-187,One Outs,8.35,"Sports, Psychological, Seinen","1,95,991",TV,25," None found, add some", Madhouse, Manga, 23 min. ,Fall 2008,"3,380"
+186,Natsume Yuujinchou: Itsuka Yuki no Hi ni,8.35,"Slice of Life, Demons, Supernatural, Drama, Shoujo","66,911",OVA,1, null, Brain's Base, Manga, 23 min.,Null,92
+187,One Outs,8.35,"Sports, Psychological, Seinen","1,95,991",TV,25, null, Madhouse, Manga, 23 min. ,Fall 2008,"3,380"
 188,Ookami to Koushinryou II,8.35,"Adventure, Historical, Romance, Fantasy","4,18,166",TV,12, Funimation," Brain's Base, Marvy Jack", Light novel, 24 min. ,Summer 2009,"3,898"
-189,Romeo no Aoi Sora,8.35,"Adventure, Drama, Historical, Slice of Life","40,069",TV,33," None found, add some", Nippon Animation, Novel, 23 min. ,Winter 1995,533
+189,Romeo no Aoi Sora,8.35,"Adventure, Drama, Historical, Slice of Life","40,069",TV,33, null, Nippon Animation, Novel, 23 min. ,Winter 1995,533
 190,Sakamichi no Apollon,8.34,"Drama, Josei, Music, Romance, School","3,10,763",TV,12, Sentai Filmworks," Tezuka Productions, MAPPA", Manga, 22 min. ,Spring 2012,"5,998"
 191,Versailles no Bara,8.34,"Military, Historical, Drama, Romance, Shoujo","74,509",TV,40," Nozomi Entertainment, Discotek Media", Tokyo Movie Shinsha, Manga, 24 min. ,Fall 1979,"2,297"
 192,Boku dake ga Inai Machi,8.34,"Mystery, Psychological, Supernatural, Seinen","15,83,104",TV,12, Aniplex of America, A-1 Pictures, Manga, 23 min. ,Winter 2016,"38,456"
-193,Gintama: Shiroyasha Koutan,8.34,"Action, Sci-Fi, Comedy, Historical, Parody","57,104",Special,1," None found, add some", Sunrise, Manga, 10 min.,Null,74
-194,Kemono no Souja Erin,8.34,"Drama, Fantasy, Slice of Life","72,374",TV,50," None found, add some"," Production I.G, Trans Arts", Novel, 25 min. ,Winter 2009,"1,368"
-195,Luo Xiao Hei Zhan Ji (Movie),8.34,"Adventure, Drama, Fantasy","10,878",Movie,1," None found, add some"," None found, add some", Original, 1 hr. 41 min.,Null,153
+193,Gintama: Shiroyasha Koutan,8.34,"Action, Sci-Fi, Comedy, Historical, Parody","57,104",Special,1, null, Sunrise, Manga, 10 min.,Null,74
+194,Kemono no Souja Erin,8.34,"Drama, Fantasy, Slice of Life","72,374",TV,50, null," Production I.G, Trans Arts", Novel, 25 min. ,Winter 2009,"1,368"
+195,Luo Xiao Hei Zhan Ji (Movie),8.34,"Adventure, Drama, Fantasy","10,878",Movie,1, null, null, Original, 1 hr. 41 min.,Null,153
 196,Made in Abyss Movie 2: Hourou Suru Tasogare,8.34,"Sci-Fi, Adventure, Mystery, Drama, Fantasy","74,003",Movie,1, Sentai Filmworks, Kinema Citrus, Web manga, 1 hr. 45 min.,Null,100
 197,Mobile Suit Gundam: The Origin,8.34,"Action, Mecha, Military, Sci-Fi, Shounen, Space","56,282",OVA,6, NYAV Post, Sunrise, Manga, 1 hr. 11 min. ,Null,623
 198,Doukyuusei (Movie),8.33,"Slice of Life, Romance, School, Shounen Ai","1,90,485",Movie,1, Aniplex of America, A-1 Pictures, Manga, 1 hr.,Null,"4,299"
-199,Douluo Dalu: Xingdou Xian Ji Pian,8.33,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,739",ONA,13," None found, add some", Sparkly Key Animation Studio, Novel, 20 min. ,Null,21
+199,Douluo Dalu: Xingdou Xian Ji Pian,8.33,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,739",ONA,13, null, Sparkly Key Animation Studio, Novel, 20 min. ,Null,21
 200,Evangelion: 2.0 You Can (Not) Advance,8.33,"Action, Sci-Fi, Psychological, Drama, Mecha","3,85,698",Movie,1, Funimation, Khara, Original, 1 hr. 52 min.,Null,"2,691"
-151,Gintama°: Aizome Kaori-hen,8.41,"Comedy, Parody","65,374",OVA,2," None found, add some", Bandai Namco Pictures, Manga, 26 min. ,Null,117
+151,Gintama°: Aizome Kaori-hen,8.41,"Comedy, Parody","65,374",OVA,2, null, Bandai Namco Pictures, Manga, 26 min. ,Null,117
 152,Houseki no Kuni (TV),8.41,"Action, Drama, Fantasy, Mystery, Seinen","3,39,565",TV,12, Sentai Filmworks, Orange, Manga, 24 min. ,Fall 2017,"9,408"
 153,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8.41,"Comedy, Psychological, Romance, School, Seinen","11,44,927",TV,12, Aniplex of America, A-1 Pictures, Manga, 25 min. ,Winter 2019,"25,443"
 154,Non Non Biyori Nonstop,8.41,"Slice of Life, Comedy, Seinen","78,697",TV,12, Sentai Filmworks, SILVER LINK., Manga, 24 min. ,Winter 2021,581
-155,Shingeki no Kyojin: Kuinaki Sentaku,8.41,"Action, Fantasy, Shoujo","3,80,486",OVA,2," None found, add some", Wit Studio, Visual novel, 27 min. ,Null,"1,516"
+155,Shingeki no Kyojin: Kuinaki Sentaku,8.41,"Action, Fantasy, Shoujo","3,80,486",OVA,2, null, Wit Studio, Visual novel, 27 min. ,Null,"1,516"
 156,Usagi Drop,8.41,"Slice of Life, Josei","4,17,743",TV,11," NIS America, Inc.", Production I.G, Manga, 22 min. ,Summer 2011,"5,597"
-157,Natsume Yuujinchou Roku Specials,8.4,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,485",Special,2," None found, add some", Shuka, Manga, 23 min. ,Null,59
+157,Natsume Yuujinchou Roku Specials,8.4,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,485",Special,2, null, Shuka, Manga, 23 min. ,Null,59
 158,Tensei shitara Slime Datta Ken 2nd Season,8.4,"Action, Adventure, Comedy, Demons, Magic, Fantasy","5,32,587",TV,12, Funimation, 8bit, Light novel, 23 min. ,Winter 2021,"7,275"
 159,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,8.4,"Slice of Life, Drama, Fantasy","2,46,999",Movie,1, Funimation, Kyoto Animation, Light novel, 1 hr. 31 min.,Null,814
 160,Baccano!,8.4,"Action, Comedy, Historical, Mystery, Supernatural","7,65,278",TV,13," Funimation, Aniplex of America", Brain's Base, Light novel, 24 min. ,Summer 2007,"21,217"
@@ -370,132 +370,132 @@ Rank,Title,Rating,Genre,Members,Type,Episodes,Licensor,Studio,Source,Duration,Pr
 169,Hellsing Ultimate,8.38,"Action, Military, Horror, Supernatural, Vampire, Seinen","7,35,640",OVA,10," Funimation, Geneon Entertainment USA"," Madhouse, Satelight, Graphinica", Manga, 50 min. ,Null,"17,271"
 170,Kaze no Tani no Nausicaä,8.38,"Adventure, Fantasy","2,98,545",Movie,1," Walt Disney Studios, GKIDS", Topcraft, Manga, 1 hr. 57 min.,Null,"3,918"
 171,Kingdom 3rd Season,8.38,"Action, Military, Historical, Seinen","48,760",TV,26, Funimation," Pierrot Plus, Studio Signpost", Manga, 25 min. ,Spring 2020,560
-172,Kamisama Hajimemashita: Kako-hen,8.37,"Comedy, Demons, Supernatural, Romance, Fantasy, Shoujo","1,28,828",OVA,4," None found, add some", TMS Entertainment, Manga, 30 min. ,Null,769
+172,Kamisama Hajimemashita: Kako-hen,8.37,"Comedy, Demons, Supernatural, Romance, Fantasy, Shoujo","1,28,828",OVA,4, null, TMS Entertainment, Manga, 30 min. ,Null,769
 173,Kingdom 2nd Season,8.37,"Action, Military, Historical, Seinen","86,796",TV,39, Funimation, Studio Pierrot, Manga, 25 min. ,Summer 2013,679
 174,Kiseijuu: Sei no Kakuritsu,8.37,"Action, Sci-Fi, Horror, Psychological, Drama, Seinen","14,20,367",TV,24, Sentai Filmworks, Madhouse, Manga, 23 min. ,Fall 2014,"27,055"
-175,Tian Guan Ci Fu,8.37,"Action, Adventure, Historical, Supernatural, Drama","60,056",ONA,11," None found, add some", Haoliners Animation League, Novel, 25 min. ,Null,"1,948"
+175,Tian Guan Ci Fu,8.37,"Action, Adventure, Historical, Supernatural, Drama","60,056",ONA,11, null, Haoliners Animation League, Novel, 25 min. ,Null,"1,948"
 176,Psycho-Pass,8.36,"Action, Sci-Fi, Police, Psychological, Thriller","13,27,878",TV,22, Funimation, Production I.G, Original, 23 min. ,Fall 2012,"33,150"
 177,Tenki no Ko,8.36,"Slice of Life, Drama, Romance, Fantasy","6,22,282",Movie,1, GKIDS, CoMix Wave Films, Original, 1 hr. 52 min.,Null,"8,378"
 178,Uchuu Senkan Yamato 2199,8.36,"Action, Military, Sci-Fi, Space, Drama","97,310",OVA,26, Funimation," Xebec, AIC", Original, 25 min. ,Null,"1,521"
-179,Haikyuu!!: To the Top,8.36,"Comedy, Sports, Drama, School, Shounen","6,12,449",TV,13," None found, add some", Production I.G, Manga, 24 min. ,Winter 2020,"3,809"
+179,Haikyuu!!: To the Top,8.36,"Comedy, Sports, Drama, School, Shounen","6,12,449",TV,13, null, Production I.G, Manga, 24 min. ,Winter 2020,"3,809"
 180,Mahou Shoujo Madoka★Magica,8.36,"Psychological, Drama, Magic, Thriller","10,47,245",TV,12, Aniplex of America, Shaft, Original, 24 min. ,Winter 2011,"44,624"
-181,Major S6,8.36,"Comedy, Drama, Shounen, Sports","53,458",TV,25," None found, add some", SynergySP, Manga, 24 min. ,Spring 2010,422
+181,Major S6,8.36,"Comedy, Drama, Shounen, Sports","53,458",TV,25, null, SynergySP, Manga, 24 min. ,Spring 2010,422
 182,Bakemonogatari,8.35,"Romance, Supernatural, Mystery, Vampire","11,64,986",TV,15, Aniplex of America, Shaft, Light novel, 24 min. ,Summer 2009,"42,346"
-183,Given,8.35,"Drama, Music, Romance, Shounen Ai, Slice of Life","3,60,714",TV,11," None found, add some", Lerche, Manga, 22 min. ,Summer 2019,"11,512"
-184,Hotarubi no Mori e,8.35,"Drama, Romance, Shoujo, Supernatural","6,40,917",Movie,1," None found, add some", Brain's Base, Manga, 45 min.,Null,"8,496"
+183,Given,8.35,"Drama, Music, Romance, Shounen Ai, Slice of Life","3,60,714",TV,11, null, Lerche, Manga, 22 min. ,Summer 2019,"11,512"
+184,Hotarubi no Mori e,8.35,"Drama, Romance, Shoujo, Supernatural","6,40,917",Movie,1, null, Brain's Base, Manga, 45 min.,Null,"8,496"
 185,Katanagatari,8.35,"Action, Adventure, Historical, Martial Arts, Romance","4,75,995",TV,12," NIS America, Inc.", White Fox, Light novel, 50 min. ,Winter 2010,"9,758"
-186,Natsume Yuujinchou: Itsuka Yuki no Hi ni,8.35,"Slice of Life, Demons, Supernatural, Drama, Shoujo","66,911",OVA,1," None found, add some", Brain's Base, Manga, 23 min.,Null,92
-187,One Outs,8.35,"Sports, Psychological, Seinen","1,95,991",TV,25," None found, add some", Madhouse, Manga, 23 min. ,Fall 2008,"3,380"
+186,Natsume Yuujinchou: Itsuka Yuki no Hi ni,8.35,"Slice of Life, Demons, Supernatural, Drama, Shoujo","66,911",OVA,1, null, Brain's Base, Manga, 23 min.,Null,92
+187,One Outs,8.35,"Sports, Psychological, Seinen","1,95,991",TV,25, null, Madhouse, Manga, 23 min. ,Fall 2008,"3,380"
 188,Ookami to Koushinryou II,8.35,"Adventure, Historical, Romance, Fantasy","4,18,166",TV,12, Funimation," Brain's Base, Marvy Jack", Light novel, 24 min. ,Summer 2009,"3,898"
-189,Romeo no Aoi Sora,8.35,"Adventure, Drama, Historical, Slice of Life","40,069",TV,33," None found, add some", Nippon Animation, Novel, 23 min. ,Winter 1995,533
+189,Romeo no Aoi Sora,8.35,"Adventure, Drama, Historical, Slice of Life","40,069",TV,33, null, Nippon Animation, Novel, 23 min. ,Winter 1995,533
 190,Sakamichi no Apollon,8.34,"Drama, Josei, Music, Romance, School","3,10,763",TV,12, Sentai Filmworks," Tezuka Productions, MAPPA", Manga, 22 min. ,Spring 2012,"5,998"
 191,Versailles no Bara,8.34,"Military, Historical, Drama, Romance, Shoujo","74,509",TV,40," Nozomi Entertainment, Discotek Media", Tokyo Movie Shinsha, Manga, 24 min. ,Fall 1979,"2,297"
 192,Boku dake ga Inai Machi,8.34,"Mystery, Psychological, Supernatural, Seinen","15,83,104",TV,12, Aniplex of America, A-1 Pictures, Manga, 23 min. ,Winter 2016,"38,457"
-193,Gintama: Shiroyasha Koutan,8.34,"Action, Sci-Fi, Comedy, Historical, Parody","57,104",Special,1," None found, add some", Sunrise, Manga, 10 min.,Null,74
-194,Kemono no Souja Erin,8.34,"Drama, Fantasy, Slice of Life","72,374",TV,50," None found, add some"," Production I.G, Trans Arts", Novel, 25 min. ,Winter 2009,"1,368"
-195,Luo Xiao Hei Zhan Ji (Movie),8.34,"Adventure, Drama, Fantasy","10,878",Movie,1," None found, add some"," None found, add some", Original, 1 hr. 41 min.,Null,153
+193,Gintama: Shiroyasha Koutan,8.34,"Action, Sci-Fi, Comedy, Historical, Parody","57,104",Special,1, null, Sunrise, Manga, 10 min.,Null,74
+194,Kemono no Souja Erin,8.34,"Drama, Fantasy, Slice of Life","72,374",TV,50, null," Production I.G, Trans Arts", Novel, 25 min. ,Winter 2009,"1,368"
+195,Luo Xiao Hei Zhan Ji (Movie),8.34,"Adventure, Drama, Fantasy","10,878",Movie,1, null, null, Original, 1 hr. 41 min.,Null,153
 196,Made in Abyss Movie 2: Hourou Suru Tasogare,8.34,"Sci-Fi, Adventure, Mystery, Drama, Fantasy","74,003",Movie,1, Sentai Filmworks, Kinema Citrus, Web manga, 1 hr. 45 min.,Null,100
 197,Mobile Suit Gundam: The Origin,8.34,"Action, Mecha, Military, Sci-Fi, Shounen, Space","56,282",OVA,6, NYAV Post, Sunrise, Manga, 1 hr. 11 min. ,Null,623
 198,Doukyuusei (Movie),8.33,"Slice of Life, Romance, School, Shounen Ai","1,90,485",Movie,1, Aniplex of America, A-1 Pictures, Manga, 1 hr.,Null,"4,299"
-199,Douluo Dalu: Xingdou Xian Ji Pian,8.33,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,739",ONA,13," None found, add some", Sparkly Key Animation Studio, Novel, 20 min. ,Null,21
+199,Douluo Dalu: Xingdou Xian Ji Pian,8.33,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,739",ONA,13, null, Sparkly Key Animation Studio, Novel, 20 min. ,Null,21
 200,Evangelion: 2.0 You Can (Not) Advance,8.33,"Action, Sci-Fi, Psychological, Drama, Mecha","3,85,698",Movie,1, Funimation, Khara, Original, 1 hr. 52 min.,Null,"2,691"
 201,Fate/stay night: Unlimited Blade Works 2nd Season,8.33,"Action, Fantasy, Magic, Supernatural","6,78,227",TV,13, Aniplex of America, ufotable, Visual novel, 24 min. ,Spring 2015,"7,605"
 202,K-On! Movie,8.33,"Music, Slice of Life, Comedy","2,62,186",Movie,1, Sentai Filmworks, Kyoto Animation, 4-koma manga, 1 hr. 50 min.,Null,"2,062"
-203,Major: World Series,8.33,"Comedy, Drama, Shounen, Sports","31,339",OVA,2," None found, add some", SynergySP, Manga, 28 min. ,Null,88
+203,Major: World Series,8.33,"Comedy, Drama, Shounen, Sports","31,339",OVA,2, null, SynergySP, Manga, 28 min. ,Null,88
 204,Natsume Yuujinchou,8.33,"Slice of Life, Demons, Supernatural, Drama, Shoujo","4,41,535",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Summer 2008,"13,392"
-205,Natsume Yuujinchou Go Specials,8.33,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,443",Special,2," None found, add some", Shuka, Manga, 23 min. ,Null,53
+205,Natsume Yuujinchou Go Specials,8.33,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,443",Special,2, null, Shuka, Manga, 23 min. ,Null,53
 206,Neon Genesis Evangelion,8.33,"Action, Sci-Fi, Dementia, Psychological, Drama, Mecha","13,20,825",TV,26," ADV Films, GKIDS, Netflix"," Gainax, Tatsunoko Production", Original, 24 min. ,Fall 1995,"74,984"
 207,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8.33,"Comedy, Supernatural, Drama, Romance, School","11,81,117",TV,13, Aniplex of America, CloverWorks, Light novel, 24 min. ,Fall 2018,"34,097"
 208,Shinsekai yori,8.33,"Drama, Horror, Mystery, Psychological, Sci-Fi, Supernatural","6,59,334",TV,25, Sentai Filmworks, A-1 Pictures, Novel, 22 min. ,Fall 2012,"20,273"
 209,Shirobako,8.33,"Comedy, Drama","3,75,564",TV,24, Sentai Filmworks, P.A. Works, Original, 24 min. ,Fall 2014,"5,823"
-210,Wu Liuqi Zhi Xuanwu Guo Pian,8.33,"Action, Adventure, Comedy, Drama, Martial Arts, Mystery, Super Power","9,622",ONA,10," None found, add some"," None found, add some", Original, 16 min. ,Null,92
+210,Wu Liuqi Zhi Xuanwu Guo Pian,8.33,"Action, Adventure, Comedy, Drama, Martial Arts, Mystery, Super Power","9,622",ONA,10, null, null, Original, 16 min. ,Null,92
 211,NHK ni Youkoso!,8.32,"Comedy, Psychological, Drama, Romance","5,89,638",TV,24," ADV Films, Funimation", Gonzo, Novel, 24 min. ,Summer 2006,"21,336"
 212,Shelter,8.32,"Sci-Fi, Music","2,85,338",Music,1, Crunchyroll, A-1 Pictures, Music, 6 min.,Null,"2,265"
 213,Steins;Gate: Oukoubakko no Poriomania,8.32,"Sci-Fi, Comedy","3,64,997",Special,1, Funimation, White Fox, Visual novel, 24 min.,Null,707
 214,Dr. Stone,8.32,"Sci-Fi, Adventure, Comedy, Shounen","11,87,278",TV,24," Funimation, Crunchyroll", TMS Entertainment, Manga, 24 min. ,Summer 2019,"19,539"
 215,Fate/Zero,8.32,"Action, Supernatural, Magic, Fantasy","12,09,908",TV,13, Aniplex of America, ufotable, Light novel, 28 min. ,Fall 2011,"29,677"
-216,Great Pretender,8.32,"Action, Adventure, Mystery, Comedy, Psychological","4,01,339",TV,23," None found, add some", Wit Studio, Original, 23 min. ,Summer 2020,"6,254"
-217,Hunter x Hunter: Original Video Animation,8.32,"Action, Adventure, Super Power, Shounen","1,07,828",OVA,8," None found, add some", Nippon Animation, Manga, 24 min. ,Null,331
+216,Great Pretender,8.32,"Action, Adventure, Mystery, Comedy, Psychological","4,01,339",TV,23, null, Wit Studio, Original, 23 min. ,Summer 2020,"6,254"
+217,Hunter x Hunter: Original Video Animation,8.32,"Action, Adventure, Super Power, Shounen","1,07,828",OVA,8, null, Nippon Animation, Manga, 24 min. ,Null,331
 218,Kino no Tabi: The Beautiful World,8.32,"Action, Adventure, Psychological, Slice of Life","2,44,720",TV,13," ADV Films, Sentai Filmworks", A.C.G.T., Light novel, 24 min. ,Spring 2003,"5,685"
-219,Kuroko no Basket 3rd Season,8.32,"Comedy, Sports, School, Shounen","5,75,684",TV,25," None found, add some", Production I.G, Manga, 24 min. ,Winter 2015,"4,241"
+219,Kuroko no Basket 3rd Season,8.32,"Comedy, Sports, School, Shounen","5,75,684",TV,25, null, Production I.G, Manga, 24 min. ,Winter 2015,"4,241"
 220,Beck,8.31,"Comedy, Drama, Music, Shounen, Slice of Life","2,76,752",TV,26, Funimation, Madhouse, Manga, 25 min. ,Fall 2004,"6,996"
-221,Diamond no Ace: Second Season,8.31,"Comedy, Sports, School, Shounen","1,10,081",TV,51," None found, add some"," Production I.G, Madhouse", Manga, 24 min. ,Spring 2015,900
-222,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",8.31,"Slice of Life, Drama, Fantasy","2,17,686",Special,1," None found, add some", Kyoto Animation, Light novel, 34 min.,Null,485
-223,Nodame Cantabile,8.3,"Music, Slice of Life, Comedy, Drama, Romance, Josei","2,74,697",TV,23," None found, add some", J.C.Staff, Manga, 22 min. ,Winter 2007,"4,689"
+221,Diamond no Ace: Second Season,8.31,"Comedy, Sports, School, Shounen","1,10,081",TV,51, null," Production I.G, Madhouse", Manga, 24 min. ,Spring 2015,900
+222,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",8.31,"Slice of Life, Drama, Fantasy","2,17,686",Special,1, null, Kyoto Animation, Light novel, 34 min.,Null,485
+223,Nodame Cantabile,8.3,"Music, Slice of Life, Comedy, Drama, Romance, Josei","2,74,697",TV,23, null, J.C.Staff, Manga, 22 min. ,Winter 2007,"4,689"
 224,Planetes,8.3,"Drama, Romance, Sci-Fi, Seinen, Space","2,07,908",TV,26, Bandai Entertainment, Sunrise, Manga, 25 min. ,Fall 2003,"3,468"
 225,Rurouni Kenshin: Meiji Kenkaku Romantan,8.3,"Action, Adventure, Comedy, Historical, Romance, Samurai, Shounen","4,12,490",TV,94," Media Blasters, Aniplex of America"," Gallop, Studio Deen", Manga, 25 min. ,Winter 1996,"8,806"
 226,Stranger: Mukou Hadan,8.3,"Action, Adventure, Historical, Samurai","2,78,458",Movie,1," Funimation, Bandai Entertainment", Bones, Original, 1 hr. 43 min.,Null,"2,623"
 227,Tsubasa: Tokyo Revelations,8.3,"Action, Adventure, Drama, Romance, Fantasy, Shounen","84,974",OVA,3, Funimation, Production I.G, Manga, 30 min. ,Null,795
 228,Bakemono no Ko,8.3,"Adventure, Supernatural","3,36,036",Movie,1, Funimation, Studio Chizu, Original, 1 hr. 59 min.,Null,"2,640"
 229,Detective Conan Movie 06: The Phantom of Baker Street,8.3,"Adventure, Mystery, Police, Shounen","63,387",Movie,1, Funimation, TMS Entertainment, Manga, 1 hr. 47 min.,Null,189
-230,Kawaki wo Ameku,8.3,Music,"20,238",Music,1," None found, add some"," None found, add some", Music, 4 min.,Null,181
+230,Kawaki wo Ameku,8.3,Music,"20,238",Music,1, null, null, Music, 4 min.,Null,181
 231,Kono Subarashii Sekai ni Shukufuku wo! 2,8.3,"Adventure, Comedy, Parody, Supernatural, Fantasy","11,38,724",TV,10, Discotek Media, Studio Deen, Light novel, 23 min. ,Winter 2017,"10,307"
 232,Hibike! Euphonium 2,8.29,"Music, Drama, School","1,79,864",TV,13, Ponycan USA, Kyoto Animation, Novel, 23 min. ,Fall 2016,"2,698"
 233,Initial D First Stage,8.29,"Action, Cars, Drama, Seinen, Sports","2,61,103",TV,26," Funimation, Tokyopop"," Gallop, Studio Comet", Manga, 25 min. ,Spring 1998,"7,589"
 234,Koukaku Kidoutai,8.29,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen","5,02,185",Movie,1, Manga Entertainment, Production I.G, Manga, 1 hr. 22 min.,Null,"10,009"
 235,Redline,8.29,"Action, Sci-Fi, Cars, Sports","2,88,743",Movie,1, Anchor Bay Films, Madhouse, Original, 1 hr. 42 min.,Null,"4,153"
 236,Tokyo Godfathers,8.29,"Comedy, Drama","2,17,555",Movie,1," Sony Pictures Entertainment, GKIDS", Madhouse, Original, 1 hr. 32 min.,Null,"1,723"
-237,Quanzhi Gaoshou Specials,8.28,"Action, Game","86,226",ONA,3," None found, add some"," Tencent Animation & Comics, China Literature Limited, Colored Pencil Animation", Novel, 27 min. ,Null,318
-238,Stand By Me Doraemon 2,8.28,"Comedy, Kids, Sci-Fi, Seinen","7,989",Movie,1," None found, add some"," Shirogumi, Shin-Ei Animation", Manga, 1 hr. 35 min.,Null,51
+237,Quanzhi Gaoshou Specials,8.28,"Action, Game","86,226",ONA,3, null," Tencent Animation & Comics, China Literature Limited, Colored Pencil Animation", Novel, 27 min. ,Null,318
+238,Stand By Me Doraemon 2,8.28,"Comedy, Kids, Sci-Fi, Seinen","7,989",Movie,1, null," Shirogumi, Shin-Ei Animation", Manga, 1 hr. 35 min.,Null,51
 239,Tenkuu no Shiro Laputa,8.28,"Adventure, Fantasy, Romance, Sci-Fi","3,71,840",Movie,1," Walt Disney Studios, GKIDS", Studio Ghibli, Original, 2 hr. 4 min.,Null,"3,128"
 240,Tonari no Totoro,8.28,"Adventure, Comedy, Supernatural","8,11,895",Movie,1," Walt Disney Studios, GKIDS", Studio Ghibli, Original, 1 hr. 26 min.,Null,"6,200"
-241,Ashita no Joe,8.28,"Action, Drama, Shounen, Slice of Life, Sports","64,643",TV,79," None found, add some", Mushi Production, Manga, 25 min. ,Spring 1970,"1,440"
+241,Ashita no Joe,8.28,"Action, Drama, Shounen, Slice of Life, Sports","64,643",TV,79, null, Mushi Production, Manga, 25 min. ,Spring 1970,"1,440"
 242,Gin no Saji 2nd Season,8.28,"Comedy, School, Shounen, Slice of Life","1,26,557",TV,11, Aniplex of America, A-1 Pictures, Manga, 24 min. ,Winter 2014,593
-243,Gintama: Shinyaku Benizakura-hen,8.28,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","34,566",Special,1," None found, add some", Sunrise, Manga, 11 min.,Null,41
+243,Gintama: Shinyaku Benizakura-hen,8.28,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","34,566",Special,1, null, Sunrise, Manga, 11 min.,Null,41
 244,Gyakkyou Burai Kaiji: Ultimate Survivor,8.28,"Game, Psychological, Thriller, Seinen","2,69,695",TV,26, Sentai Filmworks, Madhouse, Manga, 23 min. ,Fall 2007,"7,893"
 245,Hajime no Ippo: Champion Road,8.28,"Comedy, Shounen, Sports","1,04,637",Special,1," Discotek Media, Geneon Entertainment USA", Madhouse, Manga, 1 hr. 30 min.,Null,174
-246,Hunter x Hunter: Greed Island Final,8.28,"Action, Adventure, Super Power, Fantasy, Shounen","1,19,574",OVA,14," None found, add some", Nippon Animation, Manga, 24 min. ,Null,214
-247,Douluo Dalu: Hanhai Qian Kun,8.27,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,407",ONA,13," None found, add some", Sparkly Key Animation Studio, Novel, 21 min. ,Null,11
+246,Hunter x Hunter: Greed Island Final,8.28,"Action, Adventure, Super Power, Fantasy, Shounen","1,19,574",OVA,14, null, Nippon Animation, Manga, 24 min. ,Null,214
+247,Douluo Dalu: Hanhai Qian Kun,8.27,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,407",ONA,13, null, Sparkly Key Animation Studio, Novel, 21 min. ,Null,11
 248,No Game No Life: Zero,8.27,"Game, Supernatural, Drama, Romance, Fantasy","6,78,375",Movie,1, Sentai Filmworks, Madhouse, Light novel, 1 hr. 46 min.,Null,"6,626"
 249,Re:Zero kara Hajimeru Isekai Seikatsu,8.27,"Psychological, Drama, Thriller, Fantasy","16,94,335",TV,25, Funimation, White Fox, Light novel, 25 min. ,Spring 2016,"54,405"
-250,Tokyo Revengers,8.27,"Action, Drama, School, Shounen, Supernatural","4,59,280",TV,9999," None found, add some", LIDENFILMS, Manga, 23 min.,Spring 2021,"7,205"
+250,Tokyo Revengers,8.27,"Action, Drama, School, Shounen, Supernatural","4,59,280",TV,null, null, LIDENFILMS, Manga, 23 min.,Spring 2021,"7,205"
 201,Fate/stay night: Unlimited Blade Works 2nd Season,8.33,"Action, Fantasy, Magic, Supernatural","6,78,227",TV,13, Aniplex of America, ufotable, Visual novel, 24 min. ,Spring 2015,"7,606"
 202,K-On! Movie,8.33,"Music, Slice of Life, Comedy","2,62,186",Movie,1, Sentai Filmworks, Kyoto Animation, 4-koma manga, 1 hr. 50 min.,Null,"2,062"
-203,Major: World Series,8.33,"Comedy, Drama, Shounen, Sports","31,339",OVA,2," None found, add some", SynergySP, Manga, 28 min. ,Null,88
+203,Major: World Series,8.33,"Comedy, Drama, Shounen, Sports","31,339",OVA,2, null, SynergySP, Manga, 28 min. ,Null,88
 204,Natsume Yuujinchou,8.33,"Slice of Life, Demons, Supernatural, Drama, Shoujo","4,41,535",TV,13," NIS America, Inc.", Brain's Base, Manga, 24 min. ,Summer 2008,"13,392"
-205,Natsume Yuujinchou Go Specials,8.33,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,443",Special,2," None found, add some", Shuka, Manga, 23 min. ,Null,53
+205,Natsume Yuujinchou Go Specials,8.33,"Slice of Life, Demons, Supernatural, Drama, Shoujo","35,443",Special,2, null, Shuka, Manga, 23 min. ,Null,53
 206,Neon Genesis Evangelion,8.33,"Action, Sci-Fi, Dementia, Psychological, Drama, Mecha","13,20,825",TV,26," ADV Films, GKIDS, Netflix"," Gainax, Tatsunoko Production", Original, 24 min. ,Fall 1995,"74,984"
 207,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8.33,"Comedy, Supernatural, Drama, Romance, School","11,81,117",TV,13, Aniplex of America, CloverWorks, Light novel, 24 min. ,Fall 2018,"34,097"
 208,Shinsekai yori,8.33,"Drama, Horror, Mystery, Psychological, Sci-Fi, Supernatural","6,59,334",TV,25, Sentai Filmworks, A-1 Pictures, Novel, 22 min. ,Fall 2012,"20,273"
 209,Shirobako,8.33,"Comedy, Drama","3,75,591",TV,24, Sentai Filmworks, P.A. Works, Original, 24 min. ,Fall 2014,"5,823"
-210,Wu Liuqi Zhi Xuanwu Guo Pian,8.33,"Action, Adventure, Comedy, Drama, Martial Arts, Mystery, Super Power","9,622",ONA,10," None found, add some"," None found, add some", Original, 16 min. ,Null,92
+210,Wu Liuqi Zhi Xuanwu Guo Pian,8.33,"Action, Adventure, Comedy, Drama, Martial Arts, Mystery, Super Power","9,622",ONA,10, null, null, Original, 16 min. ,Null,92
 211,NHK ni Youkoso!,8.32,"Comedy, Psychological, Drama, Romance","5,89,638",TV,24," ADV Films, Funimation", Gonzo, Novel, 24 min. ,Summer 2006,"21,336"
 212,Shelter,8.32,"Sci-Fi, Music","2,85,338",Music,1, Crunchyroll, A-1 Pictures, Music, 6 min.,Null,"2,265"
 213,Steins;Gate: Oukoubakko no Poriomania,8.32,"Sci-Fi, Comedy","3,64,997",Special,1, Funimation, White Fox, Visual novel, 24 min.,Null,707
 214,Dr. Stone,8.32,"Sci-Fi, Adventure, Comedy, Shounen","11,87,278",TV,24," Funimation, Crunchyroll", TMS Entertainment, Manga, 24 min. ,Summer 2019,"19,539"
 215,Fate/Zero,8.32,"Action, Supernatural, Magic, Fantasy","12,09,908",TV,13, Aniplex of America, ufotable, Light novel, 28 min. ,Fall 2011,"29,677"
-216,Great Pretender,8.32,"Action, Adventure, Mystery, Comedy, Psychological","4,01,339",TV,23," None found, add some", Wit Studio, Original, 23 min. ,Summer 2020,"6,254"
-217,Hunter x Hunter: Original Video Animation,8.32,"Action, Adventure, Super Power, Shounen","1,07,828",OVA,8," None found, add some", Nippon Animation, Manga, 24 min. ,Null,331
+216,Great Pretender,8.32,"Action, Adventure, Mystery, Comedy, Psychological","4,01,339",TV,23, null, Wit Studio, Original, 23 min. ,Summer 2020,"6,254"
+217,Hunter x Hunter: Original Video Animation,8.32,"Action, Adventure, Super Power, Shounen","1,07,828",OVA,8, null, Nippon Animation, Manga, 24 min. ,Null,331
 218,Kino no Tabi: The Beautiful World,8.32,"Action, Adventure, Psychological, Slice of Life","2,44,720",TV,13," ADV Films, Sentai Filmworks", A.C.G.T., Light novel, 24 min. ,Spring 2003,"5,685"
-219,Kuroko no Basket 3rd Season,8.32,"Comedy, Sports, School, Shounen","5,75,746",TV,25," None found, add some", Production I.G, Manga, 24 min. ,Winter 2015,"4,241"
+219,Kuroko no Basket 3rd Season,8.32,"Comedy, Sports, School, Shounen","5,75,746",TV,25, null, Production I.G, Manga, 24 min. ,Winter 2015,"4,241"
 220,Beck,8.31,"Comedy, Drama, Music, Shounen, Slice of Life","2,76,752",TV,26, Funimation, Madhouse, Manga, 25 min. ,Fall 2004,"6,996"
-221,Diamond no Ace: Second Season,8.31,"Comedy, Sports, School, Shounen","1,10,081",TV,51," None found, add some"," Production I.G, Madhouse", Manga, 24 min. ,Spring 2015,900
-222,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",8.31,"Slice of Life, Drama, Fantasy","2,17,686",Special,1," None found, add some", Kyoto Animation, Light novel, 34 min.,Null,485
-223,Nodame Cantabile,8.3,"Music, Slice of Life, Comedy, Drama, Romance, Josei","2,74,697",TV,23," None found, add some", J.C.Staff, Manga, 22 min. ,Winter 2007,"4,689"
+221,Diamond no Ace: Second Season,8.31,"Comedy, Sports, School, Shounen","1,10,081",TV,51, null," Production I.G, Madhouse", Manga, 24 min. ,Spring 2015,900
+222,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",8.31,"Slice of Life, Drama, Fantasy","2,17,686",Special,1, null, Kyoto Animation, Light novel, 34 min.,Null,485
+223,Nodame Cantabile,8.3,"Music, Slice of Life, Comedy, Drama, Romance, Josei","2,74,697",TV,23, null, J.C.Staff, Manga, 22 min. ,Winter 2007,"4,689"
 224,Planetes,8.3,"Drama, Romance, Sci-Fi, Seinen, Space","2,07,908",TV,26, Bandai Entertainment, Sunrise, Manga, 25 min. ,Fall 2003,"3,468"
 225,Rurouni Kenshin: Meiji Kenkaku Romantan,8.3,"Action, Adventure, Comedy, Historical, Romance, Samurai, Shounen","4,12,490",TV,94," Media Blasters, Aniplex of America"," Gallop, Studio Deen", Manga, 25 min. ,Winter 1996,"8,806"
 226,Stranger: Mukou Hadan,8.3,"Action, Adventure, Historical, Samurai","2,78,458",Movie,1," Funimation, Bandai Entertainment", Bones, Original, 1 hr. 43 min.,Null,"2,623"
 227,Tsubasa: Tokyo Revelations,8.3,"Action, Adventure, Drama, Romance, Fantasy, Shounen","84,974",OVA,3, Funimation, Production I.G, Manga, 30 min. ,Null,795
 228,Bakemono no Ko,8.3,"Adventure, Supernatural","3,36,036",Movie,1, Funimation, Studio Chizu, Original, 1 hr. 59 min.,Null,"2,640"
 229,Detective Conan Movie 06: The Phantom of Baker Street,8.3,"Adventure, Mystery, Police, Shounen","63,387",Movie,1, Funimation, TMS Entertainment, Manga, 1 hr. 47 min.,Null,189
-230,Kawaki wo Ameku,8.3,Music,"20,238",Music,1," None found, add some"," None found, add some", Music, 4 min.,Null,181
+230,Kawaki wo Ameku,8.3,Music,"20,238",Music,1, null, null, Music, 4 min.,Null,181
 231,Kono Subarashii Sekai ni Shukufuku wo! 2,8.3,"Adventure, Comedy, Parody, Supernatural, Fantasy","11,38,724",TV,10, Discotek Media, Studio Deen, Light novel, 23 min. ,Winter 2017,"10,307"
 232,Hibike! Euphonium 2,8.29,"Music, Drama, School","1,79,864",TV,13, Ponycan USA, Kyoto Animation, Novel, 23 min. ,Fall 2016,"2,698"
 233,Initial D First Stage,8.29,"Action, Cars, Drama, Seinen, Sports","2,61,137",TV,26," Funimation, Tokyopop"," Gallop, Studio Comet", Manga, 25 min. ,Spring 1998,"7,589"
 234,Koukaku Kidoutai,8.29,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen","5,02,185",Movie,1, Manga Entertainment, Production I.G, Manga, 1 hr. 22 min.,Null,"10,009"
 235,Redline,8.29,"Action, Sci-Fi, Cars, Sports","2,88,743",Movie,1, Anchor Bay Films, Madhouse, Original, 1 hr. 42 min.,Null,"4,153"
 236,Tokyo Godfathers,8.29,"Comedy, Drama","2,17,555",Movie,1," Sony Pictures Entertainment, GKIDS", Madhouse, Original, 1 hr. 32 min.,Null,"1,723"
-237,Quanzhi Gaoshou Specials,8.28,"Action, Game","86,226",ONA,3," None found, add some"," Tencent Animation & Comics, China Literature Limited, Colored Pencil Animation", Novel, 27 min. ,Null,318
-238,Stand By Me Doraemon 2,8.28,"Comedy, Kids, Sci-Fi, Seinen","7,989",Movie,1," None found, add some"," Shirogumi, Shin-Ei Animation", Manga, 1 hr. 35 min.,Null,51
+237,Quanzhi Gaoshou Specials,8.28,"Action, Game","86,226",ONA,3, null," Tencent Animation & Comics, China Literature Limited, Colored Pencil Animation", Novel, 27 min. ,Null,318
+238,Stand By Me Doraemon 2,8.28,"Comedy, Kids, Sci-Fi, Seinen","7,989",Movie,1, null," Shirogumi, Shin-Ei Animation", Manga, 1 hr. 35 min.,Null,51
 239,Tenkuu no Shiro Laputa,8.28,"Adventure, Fantasy, Romance, Sci-Fi","3,71,840",Movie,1," Walt Disney Studios, GKIDS", Studio Ghibli, Original, 2 hr. 4 min.,Null,"3,128"
 240,Tonari no Totoro,8.28,"Adventure, Comedy, Supernatural","8,11,895",Movie,1," Walt Disney Studios, GKIDS", Studio Ghibli, Original, 1 hr. 26 min.,Null,"6,200"
-241,Ashita no Joe,8.28,"Action, Drama, Shounen, Slice of Life, Sports","64,651",TV,79," None found, add some", Mushi Production, Manga, 25 min. ,Spring 1970,"1,440"
+241,Ashita no Joe,8.28,"Action, Drama, Shounen, Slice of Life, Sports","64,651",TV,79, null, Mushi Production, Manga, 25 min. ,Spring 1970,"1,440"
 242,Gin no Saji 2nd Season,8.28,"Comedy, School, Shounen, Slice of Life","1,26,564",TV,11, Aniplex of America, A-1 Pictures, Manga, 24 min. ,Winter 2014,593
-243,Gintama: Shinyaku Benizakura-hen,8.28,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","34,566",Special,1," None found, add some", Sunrise, Manga, 11 min.,Null,41
+243,Gintama: Shinyaku Benizakura-hen,8.28,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen","34,566",Special,1, null, Sunrise, Manga, 11 min.,Null,41
 244,Gyakkyou Burai Kaiji: Ultimate Survivor,8.28,"Game, Psychological, Thriller, Seinen","2,69,695",TV,26, Sentai Filmworks, Madhouse, Manga, 23 min. ,Fall 2007,"7,893"
 245,Hajime no Ippo: Champion Road,8.28,"Comedy, Shounen, Sports","1,04,637",Special,1," Discotek Media, Geneon Entertainment USA", Madhouse, Manga, 1 hr. 30 min.,Null,174
-246,Hunter x Hunter: Greed Island Final,8.28,"Action, Adventure, Super Power, Fantasy, Shounen","1,19,574",OVA,14," None found, add some", Nippon Animation, Manga, 24 min. ,Null,214
-247,Douluo Dalu: Hanhai Qian Kun,8.27,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,407",ONA,13," None found, add some", Sparkly Key Animation Studio, Novel, 21 min. ,Null,11
+246,Hunter x Hunter: Greed Island Final,8.28,"Action, Adventure, Super Power, Fantasy, Shounen","1,19,574",OVA,14, null, Nippon Animation, Manga, 24 min. ,Null,214
+247,Douluo Dalu: Hanhai Qian Kun,8.27,"Action, Adventure, Historical, Romance, Martial Arts, Fantasy","2,407",ONA,13, null, Sparkly Key Animation Studio, Novel, 21 min. ,Null,11
 248,No Game No Life: Zero,8.27,"Game, Supernatural, Drama, Romance, Fantasy","6,78,375",Movie,1, Sentai Filmworks, Madhouse, Light novel, 1 hr. 46 min.,Null,"6,626"
 249,Re:Zero kara Hajimeru Isekai Seikatsu,8.27,"Psychological, Drama, Thriller, Fantasy","16,94,335",TV,25, Funimation, White Fox, Light novel, 25 min. ,Spring 2016,"54,405"
-250,Tokyo Revengers,8.27,"Action, Drama, School, Shounen, Supernatural","4,59,280",TV,9999," None found, add some", LIDENFILMS, Manga, 23 min.,Spring 2021,"7,206"
+250,Tokyo Revengers,8.27,"Action, Drama, School, Shounen, Supernatural","4,59,280",TV,null, null, LIDENFILMS, Manga, 23 min.,Spring 2021,"7,206"
